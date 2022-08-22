@@ -5,6 +5,10 @@ Q1227076,Diosdado Cabello,spouse,Q20015585,Marleny Contreras
 Q15081116,Delcy Rodríguez,father,Q27786356,Jorge Antonio Rodríguez
 Q15081116,Delcy Rodríguez,sibling,Q3295308,Jorge Rodríguez
 Q295790,Carlos Andrés Pérez,spouse,Q5729827,Blanca Rodríguez de Pérez
+Q3295308,Jorge Rodríguez,father,Q27786356,Jorge Antonio Rodríguez
+Q3295308,Jorge Rodríguez,sibling,Q15081116,Delcy Rodríguez
+Q3788643,Ernesto Villegas,sibling,Q12809209,Vladimir Villegas
+Q506399,Tareck El Aissami,sibling,Q47476698,Haifa El Aissami
 Q58132,Nicolás Maduro,child,Q22278983,Nicolás Maduro Guerra
 Q58132,Nicolás Maduro,partner,Q799556,Cilia Flores
 Q58132,Nicolás Maduro,spouse,Q799556,Cilia Flores
