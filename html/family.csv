@@ -1,0 +1,27 @@
+id,name,relationship,relative,relativename
+Q1227076,Diosdado Cabello,sibling,Q113486403,Glenna Cabello
+Q1227076,Diosdado Cabello,sibling,Q6292031,José David Cabello
+Q1227076,Diosdado Cabello,spouse,Q20015585,Marleny Contreras
+Q15081116,Delcy Rodríguez,father,Q27786356,Jorge Antonio Rodríguez
+Q15081116,Delcy Rodríguez,sibling,Q3295308,Jorge Rodríguez
+Q295790,Carlos Andrés Pérez,spouse,Q5729827,Blanca Rodríguez de Pérez
+Q58132,Nicolás Maduro,child,Q22278983,Nicolás Maduro Guerra
+Q58132,Nicolás Maduro,partner,Q799556,Cilia Flores
+Q58132,Nicolás Maduro,spouse,Q799556,Cilia Flores
+Q5951793,Juan Pablo Guanipa,sibling,Q16300780,Tomás Guanipa
+Q6328534,Marisabel Rodríguez de Chávez,spouse,Q8440,Hugo Chávez
+Q716294,José Vicente Rangel,child,Q6294184,José Vicente Rangel Ávalos
+Q716294,José Vicente Rangel,spouse,Q28444874,Ana Ávalos
+Q799556,Cilia Flores,partner,Q58132,Nicolás Maduro
+Q799556,Cilia Flores,relative,Q22278983,Nicolás Maduro Guerra
+Q799556,Cilia Flores,relative,Q44694121,Efraín Antonio Campo Flores
+Q799556,Cilia Flores,spouse,Q58132,Nicolás Maduro
+Q8440,Hugo Chávez,child,Q48772419,María Gabriela Chávez
+Q8440,Hugo Chávez,father,Q1422810,Hugo de los Reyes Chávez
+Q8440,Hugo Chávez,mother,Q5359015,Elena Frías de Chávez
+Q8440,Hugo Chávez,relative,Q17987387,Asdrúbal Chávez
+Q8440,Hugo Chávez,sibling,Q380283,Adán Chávez
+Q8440,Hugo Chávez,sibling,Q4778506,Aníbal Chávez
+Q8440,Hugo Chávez,sibling,Q644780,Argenis Chávez
+Q8440,Hugo Chávez,spouse,Q28647798,Nancy Colmenares
+Q8440,Hugo Chávez,spouse,Q6328534,Marisabel Rodríguez de Chávez
