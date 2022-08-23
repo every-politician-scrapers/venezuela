@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Presidents and Governors of Zulia"
+      ],
+      "stated_as": "Governor of Zulia"
+    },
+    "P580": "2017-10-15",
+    "P1365": {
+      "links": [
+        "Francisco Arias Cárdenas"
+      ],
+      "stated_as": "Francisco Arias Cárdenas"
+    },
+    "P582": "2017-10-26",
+    "P1366": {
+      "links": [
+        "Omar Prieto"
+      ],
+      "stated_as": "Magdely Valbuena (interim) Omar Prieto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Venezuela"
+      ],
+      "stated_as": "Vice President of the National Assembly of Venezuela"
+    },
+    "P580": "2020-01-05",
+    "P1365": {
+      "links": [
+        "Edgar Zambrano"
+      ],
+      "stated_as": "Edgar Zambrano"
+    }
+  }
+]

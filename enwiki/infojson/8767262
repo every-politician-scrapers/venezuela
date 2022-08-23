@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Vice President of Venezuela"
+      ],
+      "stated_as": "Vice President of Venezuela"
+    },
+    "P580": "2007-01-08",
+    "P1365": {
+      "links": [
+        "Jose Vicente Rangel"
+      ],
+      "stated_as": "Jose Vicente Rangel"
+    },
+    "P582": "2008-01-03",
+    "P1366": {
+      "links": [
+        "Ramón Carrizales"
+      ],
+      "stated_as": "Ramón Carrizales"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Libertador Bolivarian Municipality"
+      ],
+      "stated_as": "Mayor of the Libertador Bolivarian Municipality"
+    },
+    "P580": "2009-12-01",
+    "P1365": {
+      "links": [
+        "Freddy Bernal"
+      ],
+      "stated_as": "Freddy Bernal"
+    },
+    "P582": "2017-11-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Luis Lira"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Popular Power for Communication and Information"
+      ],
+      "stated_as": "Minister of Popular Power for Communication and Information"
+    },
+    "P580": "2017-11-03",
+    "P1365": {
+      "links": [
+        "Ernesto Villegas"
+      ],
+      "stated_as": "Ernesto Villegas"
+    },
+    "P582": "2020-09-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Freddy Ñáñez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Assembly of Venezuela"
+      ],
+      "stated_as": "12th President of the National Assembly of Venezuela (contested)"
+    },
+    "P580": "2021-01-05",
+    "P1365": {
+      "links": [
+        "Luis Parra"
+      ],
+      "stated_as": "Luis Parra"
+    }
+  }
+]
