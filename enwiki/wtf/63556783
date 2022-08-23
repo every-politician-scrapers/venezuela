@@ -1,0 +1,964 @@
+{
+  "title": "Juan Pablo Guanipa",
+  "pageID": 63556783,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Maracaibo",
+    "Justice First politicians",
+    "Members of the National Assembly (Venezuela)",
+    "People of the Crisis in Venezuela",
+    "University of Zulia alumni",
+    "20th-century Venezuelan lawyers",
+    "Venezuelan city councillors",
+    "Copei politicians",
+    "Governors of Zulia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Pablo Isidoro Guanipa Villalobos (born 20 December 1964) is a Venezuelan lawyer and politician who currently serves as deputy and First Vice President of the National Assembly, leader of the Justice First political party and former governor of Zulia.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Venezuela)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Justice First"
+                },
+                {
+                  "text": "governor of Zulia",
+                  "type": "internal",
+                  "page": "List of Presidents and Governors of Zulia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Pablo Isidoro Guanipa Villalobos"
+                ]
+              }
+            },
+            {
+              "text": "He was a presidential candidate in the 2018 elections until boycott.",
+              "links": [
+                {
+                  "text": "2018 elections",
+                  "type": "internal",
+                  "page": "2018 Venezuelan presidential election"
+                }
+              ]
+            },
+            {
+              "text": "Guanipa is the regional coordinator of the Justice First party in Zulia and chairs the Maracaibo Posible foundation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justice First"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zulia"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Maracaibo Posible"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Venezuelan lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "01",
+            "date": "05",
+            "df": "y",
+            "template": "start date",
+            "text": "January 5, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "10",
+            "date": "15",
+            "df": "y",
+            "template": "start date",
+            "text": "October 15, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "10",
+            "date": "26",
+            "df": "y",
+            "template": "start date",
+            "text": "October 26, 2017"
+          }
+        },
+        {
+          "year": "1964",
+          "month": "12",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juan Pablo Guanipa"
+          },
+          "image": {
+            "text": "JuanPabloGuanipa.jpg"
+          },
+          "caption": {
+            "text": "Guanipa in 2010"
+          },
+          "office": {
+            "text": "Vice President of the National Assembly of Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Venezuela"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 5, 2020"
+          },
+          "president": {
+            "text": "Juan Guaidó (disputed)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Guaidó"
+              },
+              {
+                "text": "disputed",
+                "type": "internal",
+                "page": "2020 Venezuelan National Assembly Delegated Committee election"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Edgar Zambrano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edgar Zambrano"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Zulia",
+            "links": [
+              {
+                "text": "Governor of Zulia",
+                "type": "internal",
+                "page": "List of Presidents and Governors of Zulia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 15, 2017"
+          },
+          "term_end2": {
+            "text": "October 26, 2017"
+          },
+          "predecessor2": {
+            "text": "Francisco Arias Cárdenas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francisco Arias Cárdenas"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Magdely Valbuena (interim) Omar Prieto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Omar Prieto"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Juan Pablo Isidoro Guanipa Villalobos"
+          },
+          "birth_date": {
+            "text": "December 20, 1964"
+          },
+          "birth_place": {
+            "text": "Maracaibo, Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maracaibo"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Venezuelan"
+          },
+          "party": {
+            "text": "Justice First",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justice First"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Zulia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zulia"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer, politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Guanipa no se juramentó ante ANC",
+          "url": "http://www.laprensalara.com.ve/?p=394855",
+          "access-date": "24 October 2017",
+          "publisher": "Diario de Lara La Prensa",
+          "date": "23 October 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Constituyente advierte a gobernador que no se le subordinó",
+          "url": "http://www.eltiempo.com/mundo/venezuela/constituyente-de-venezuela-advierte-a-gobernador-de-la-oposicion-144022",
+          "access-date": "24 October 2017",
+          "agency": "Agencia EFE",
+          "publisher": "El Tiempo",
+          "date": "23 October 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Venezuela: decreto obliga a gobernadores a jurar ante Constituyente",
+          "url": "http://www.americatv.com.pe/noticias/internacionales/venezuela-decreto-obliga-gobernadores-jurar-ante-constituyente-n296201",
+          "access-date": "24 October 2017",
+          "publisher": "América Televisión",
+          "date": "20 October 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0
+    },
+    {
+      "title": "Early years",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is the third of seven brothers, six boys and one woman, children of: Corina Villalobos de Guanipa and father Manuel Guanipa Matos, a Zulian politician, leader of Copei."
+            },
+            {
+              "text": "At 13 years he worked as a clerk in a bookstore, where his young age stood out receiving recognition as owner of the best store clerk."
+            },
+            {
+              "text": "He is the brother of Tomás Guanipa, also a deputy for Zulia and Secretary General of Justice First.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zulia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Justice First"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as a student leader and union representative of the employees of the Judicial District of Zulia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zulia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.tendencia.com/2012/tomas-y-juan-pablo-guanipa/",
+          "title": "Tomás y Juan Pablo Guanipa, manteniendo vivo el legado familiar",
+          "access-date": "4 January 2019",
+          "date": "1 July 2012",
+          "website": "Tendencia",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.panorama.com.ve/politicayeconomia/Dirigentes-del-Zulia-disertaron-sobre-Transformar-la-Politica-para-la-Unidad-y-por-Venezuela-20180614-0108.html",
+          "title": "Dirigentes del Zulia disertaron sobre Transformar la Política para la Unidad y por Venezuela",
+          "access-date": "4 January 2019",
+          "website": "Panorama",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.caraotadigital.net/nacionales/los-hermanos-guanipa-declararon-que-en-pj-no-hay-lugar-al-nepotismo/",
+          "title": "Los hermanos Guanipa declararon que en PJ no hay lugar al nepotismo",
+          "access-date": "4 January 2019",
+          "last": "Segura",
+          "first": "Brian",
+          "date": "9 October 2017",
+          "website": "Caraota Digital",
+          "language": "es-es",
+          "archive-url": "https://web.archive.org/web/20190226083442/http://www.caraotadigital.net/nacionales/los-hermanos-guanipa-declararon-que-en-pj-no-hay-lugar-al-nepotismo/",
+          "archive-date": "26 February 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He studied Basic and Diversified Education at the Liceo Los Robles de Maracaibo and graduated as a Bachelor of Humanities from the Colegio San Vicente de Paúl.",
+              "formatting": {
+                "italic": [
+                  "Colegio San Vicente de Paúl"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a lawyer, graduated from the University of Zulia in 1990.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Zulia"
+                }
+              ]
+            },
+            {
+              "text": "After receiving the university degree, he continued a rigorous training process in the political and community area, as well as in the area of public management, citizen participation and leadership."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1991, he completed the IV International Senior Management Course offered by the Latin American Institute for Social Research in Caracas."
+            },
+            {
+              "text": "In 1997, he participated in the Leadership and Vision Program offered by the Center for the Dissemination of Economic Knowledge (CEDICE) in Caracas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Caracas"
+                }
+              ]
+            },
+            {
+              "text": "In the same year, he studied the Advanced Program of Government Sciences and Techniques sponsored by the Institute of Higher Administration Studies (IESA) in Maracaibo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maracaibo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2002, he completed the Master in Applied Political Studies offered by the International Foundation for Ibero-America of Administration and Public Policies in Madrid, Spain, obtaining with cum laude honors.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Madrid"
+                },
+                {
+                  "text": "cum laude",
+                  "type": "internal",
+                  "page": "Latin honors"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "cum laude"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.venezuelaaldia.com/2017/11/14/quien-juan-pablo-guanipa-posible-candidato-presidencial-venezuela/",
+          "title": "¿Quién es Juan Pablo Guanipa? Posible candidato presidencial de Venezuela",
+          "access-date": "4 January 2019",
+          "last": "Pomara",
+          "date": "14 November 2017",
+          "website": "Venezuela al dia",
+          "language": "es-419",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://transparencia.org.ve/project/dip-juan-pablo-guanipa/",
+          "title": "Dip. Juan Pablo Guanipa",
+          "access-date": "4 January 2019",
+          "website": "Transparencia Venezuela",
+          "language": "es-es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Guanipa joined politics with Rafael Caldera's presidential campaign in the 1983 presidential election, thereby entering the Copei party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rafael Caldera"
+                },
+                {
+                  "text": "1983 presidential election",
+                  "type": "internal",
+                  "page": "1983 Venezuelan general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Copei"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected as a deputy to the Legislative Assembly of the Zulia State by Copei for the period 1994–1996, serving as President of the Legislation and Policy Commissions and as Vice President of the Sports, Recreation and Tourism and Regional Planning and Development Commissions."
+            },
+            {
+              "text": "From February 1999 to March 2003, he served as General Director of the Regional Institute for Training and Sociopolitical and Sociocultural Studies for the Promotion of Man (IRFES), an institution located in Maracaibo, Zulia State."
+            },
+            {
+              "text": "After the 1999 constitutional process, leaving Copei and from 2003 is part of Primero Justicia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was popularly elected as Alternate Deputy to the National Assembly for the period 2000–2005."
+            },
+            {
+              "text": "He was popularly elected to carry out the position of Councilor of the Maracaibo Municipality in the period 2005–2009, but his performance extended for a further period, until 2013, as a consequence of the electoral body not calling the respective process."
+            },
+            {
+              "text": "During that time he chaired the Legislation and Drafting Commission of that legislative body."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2015 Venezuelan parliamentary election, he was elected as a deputy for his home state, Zulia.",
+              "links": [
+                {
+                  "text": "2015 Venezuelan parliamentary election",
+                  "type": "internal",
+                  "page": "2015 Venezuelan parliamentary election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zulia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as a councilor of Maracaibo for two continuous periods between 2005 and 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maracaibo"
+                }
+              ]
+            },
+            {
+              "text": "In 2015, he was elected deputy to the Venezuelan National Assembly until the end of 2017 when he separated from office to run as governor, where he was elected, however, unable to assuming his mandate before the refusal of the Zulia State Legislative Council (CLEZ) of an official majority to swear him in because he did not subordinate himself to the ANC (by the same request of this instance that was called and installed controversially), he returns to his seat in the national parliament in 2018.",
+              "links": [
+                {
+                  "text": "Venezuelan National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Venezuela)"
+                }
+              ]
+            },
+            {
+              "text": "After that, the president of the CLEZ of the time Magdely Valbuena was appointed interim governor until new elections were held, which were scheduled for December 2017, where the official candidate Omar Prieto is elected."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.caracaschronicles.com/2018/02/21/one-one-juan-pablo-guanipa/",
+          "title": "One on One With Juan Pablo Guanipa",
+          "access-date": "4 January 2019",
+          "last": "Soto",
+          "first": "Carlos García",
+          "date": "21 February 2018",
+          "website": "Caracas Chronicles",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.caracaschronicles.com/2018/02/21/one-one-juan-pablo-guanipa/",
+          "title": "One on One With Juan Pablo Guanipa",
+          "access-date": "4 January 2019",
+          "last": "Soto",
+          "first": "Carlos García",
+          "date": "21 February 2018",
+          "website": "Caracas Chronicles",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://globovision.com/article/magdely-valbuena-fue-designada-gobernadora-encargada-del-zulia",
+          "title": "Magdely Valbuena Gobernadora Encargada Del Zulia",
+          "access-date": "26 October 2017",
+          "website": "Globovision",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.laverdad.com/politica/80434-pj-zulia-postula-a-tres-candidatos-para-la-asamblea.html",
+          "title": "PJ Zulia postula a tres candidatos para la Asamblea",
+          "access-date": "4 January 2019",
+          "last": "jurdaneta@laverdad.com",
+          "first": "Nota de Prensa / Maracaibo /",
+          "website": "Diario La Verdad",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.laverdad.com/politica/129019-dos-hombres-con-un-objetivo-el-palacio-de-los-condores.html",
+          "title": "Dos hombres con un objetivo: El Palacio de los Cóndores",
+          "access-date": "4 January 2019",
+          "last": "noticias@laverdad.com",
+          "first": "Lenys Moreno / Maracaibo /",
+          "website": "Diario La Verdad",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2017 regional elections",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Guanipa was a candidate for governor of his state, a place that got winning the primary election of officers of the Unit, facing the mayor of Maracaibo, Eveling Trejo de Rosales on 10 September 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maracaibo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 October 2017, during the regional elections, he was elected Governor of the Zulia state, declared the winner with 691,547 votes and 51.06%.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zulia"
+                }
+              ]
+            },
+            {
+              "text": "Arias Cárdenas, his opponent obtained 631,594 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arias Cárdenas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2017 Venezuelan regional elections"
+          ],
+          "template": "main article"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://globovision.com/article/juan-pablo-guanipa-gano-las-primarias-de-la-mud-para-gobernacion-del-zulia",
+          "title": "Juan Pablo Guanipa ganó las primarias de la MUD para gobernación del Zulia",
+          "access-date": "4 January 2019",
+          "last": "Globovision",
+          "website": "Globovision",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.panorama.com.ve/politicayeconomia/Juan-Pablo-Guanipa-declarado-gobernador-del-Zulia-con-51.6-de-los-votos-20171015-0061.html",
+          "title": "Juan Pablo Guanipa es el nuevo Gobernador del Zulia con 51.06% de los votos",
+          "access-date": "16 October 2017",
+          "website": "Panorama",
+          "language": "es",
+          "archive-url": "https://web.archive.org/web/20171016173834/http://www.panorama.com.ve/politicayeconomia/Juan-Pablo-Guanipa-declarado-gobernador-del-Zulia-con-51.6-de-los-votos-20171015-0061.html",
+          "archive-date": "16 October 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Dismissal as Governor of Zulia",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 27 October 2017, the Legislative Council of Zulia dismissed Guanipa as the governor and Magdely Valbuena was appointed as interim governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Council of Zulia"
+                }
+              ]
+            },
+            {
+              "text": "The council declared that Guanipa; \"By not taking the oath, he creates the absolute lack of office.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "LUENGO",
+          "first": "TERESA",
+          "title": "Magdely Valbuena asumirá interinamente Gobernación del Zulia",
+          "url": "http://www.eluniversal.com/noticias/venezuela/magdely-valbuena-asumira-interinamente-gobernacion-del-zulia_675552",
+          "date": "26 October 2017",
+          "access-date": "27 October 2017",
+          "work": "El Universal",
+          "language": "es",
+          "archive-url": "https://web.archive.org/web/20171027031641/http://www.eluniversal.com/noticias/venezuela/magdely-valbuena-asumira-interinamente-gobernacion-del-zulia_675552",
+          "archive-date": "27 October 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "2018 presidential election",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 26 January 2018, his brother and secretary general of Primero Justicia, Tomás Guanipa, communicated the possibility that Juan Pablo Guanipa was the party's presidential candidate – despite the fact that he could nominate Henrique Capriles Radonski for the third time in future elections of the Democratic Unity Roundtable (MUD) primaries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Henrique Capriles"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Unity Roundtable"
+                }
+              ]
+            },
+            {
+              "text": "Guanipa declared in November 2017 would not rule out taking such responsibility within PJ and compete for the nomination of the opposition coalition."
+            },
+            {
+              "text": "However, on 19 February 2018, Justice First (PJ), Democratic Action and Popular Will (VP), announced they would not participate in presidential elections and expressed their rejection of the National Electoral Council, ruling out any intention of Guanipa in the electoral race.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justice First"
+                },
+                {
+                  "text": "Democratic Action",
+                  "type": "internal",
+                  "page": "Democratic Action (Venezuela)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Popular Will"
+                },
+                {
+                  "text": "National Electoral Council",
+                  "type": "internal",
+                  "page": "National Electoral Council (Venezuela)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2018 Venezuelan presidential election"
+          ],
+          "template": "main article"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.el-nacional.com/noticias/politica/participaran-elecciones-presidenciales_223759",
+          "title": "AD, PJ y VP no participarán en elecciones presidenciales",
+          "access-date": "4 January 2019",
+          "last": "snederr@el-nacional.com",
+          "first": "SOFÍA NEDERR {{!}}",
+          "date": "20 February 2018",
+          "website": "El Nacional",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.el-nacional.com/noticias/politica/primero-justicia-accion-democratica-participaran-las-presidenciales_223647",
+          "title": "Primero Justicia y Acción Democrática no participarán en las presidenciales",
+          "access-date": "4 January 2019",
+          "last": "Web",
+          "first": "El Nacional",
+          "date": "19 February 2018",
+          "website": "El Nacional",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2020 Venezuelan National Assembly Delegated Committee election",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alternate deputy of Guanipa, José Sánchez \"Mazuco\", announced in the day of the election that he was operated and hospitalized, so he would not be able to attend to the session, but assured that his vote would not make a difference since the main deputy Guanipa would attend instead."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After being blocked from entering the Palacio Federal Legislativo on 5 January 2020, Juan Guaidó announced that a separate session of the National Assembly would happen in the building of El Nacional, a Venezuelan newspaper.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Palacio Federal Legislativo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juan Guaidó"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Venezuela)"
+                },
+                {
+                  "text": "''El Nacional''",
+                  "type": "internal",
+                  "page": "El Nacional (Caracas)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "El Nacional"
+                ]
+              }
+            },
+            {
+              "text": "National Assembly deputies signed their names on an attendance list upon entering the facility."
+            },
+            {
+              "text": "Guanipa and Carlos Berrizbeitia were elected as first and second vice-presidents, respectively, taking oath at the scene."
+            },
+            {
+              "text": "Several deputies abroad followed and endorsed the vote remotely from Madrid, Spain.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Madrid"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2020 Venezuelan National Assembly Delegated Committee election"
+          ],
+          "template": "main article"
+        },
+        {
+          "text": "Carlos Berrizbeitia",
+          "lan1": "es",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://versionfinal.com.ve/politica-dinero/diputado-jose-sanchez-mazuco-fue-operado-de-emergencia-guanipa-asistira-a-la-an/",
+          "title": "Diputado José Sánchez \"Mazuco\" fue operado de emergencia: Guanipa asistirá a la AN",
+          "date": "5 January 2020",
+          "work": "Versión Final",
+          "access-date": "7 January 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.lapatilla.com/2020/01/05/guaido-anuncio-que-la-an-se-instalara-legalmente-en-la-sede-de-el-nacional-5ene/",
+          "title": "Guaidó anunció que la AN se instalará legalmente en la sede de El Nacional #5Ene",
+          "date": "5 January 2020",
+          "website": "La Patilla",
+          "language": "es-ES",
+          "access-date": "5 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lapatilla.com/2020/01/05/diputados-firman-lista-de-asistencia-para-la-sesion-de-la-an-en-la-sede-de-el-nacional-5ene-fotos/",
+          "title": "Diputados firman lista de asistencia para la sesión de la AN en la sede de El Nacional #5Ene (Fotos)",
+          "date": "5 January 2020",
+          "website": "La Patilla",
+          "language": "es-ES",
+          "access-date": "5 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://efectococuyo.com/politica/5-de-enero-el-dia-que-la-asamblea-nacional-tuvo-un-presidente-electo-y-otro-impuesto/",
+          "title": "5 de enero, el día que la Asamblea Nacional tuvo dos presidentes",
+          "last": "Leon",
+          "first": "Ibis",
+          "date": "6 January 2020",
+          "website": "Efecto Cocuyo",
+          "language": "es",
+          "access-date": "6 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-latin-america-51000419",
+          "title": "Two Venezuela lawmakers declare themselves Speaker",
+          "date": "6 January 2020",
+          "access-date": "6 January 2020",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.caraotadigital.net/internacionales/diputados-en-el-exilio-juramentan-directiva-desde-espana",
+          "title": "Diputados en el exilio respaldaron la reelección de Guaidó en la presidencia de la AN",
+          "last": "Vásquez",
+          "first": "Luis David",
+          "date": "5 January 2020",
+          "work": "Caraota Digital",
+          "access-date": "7 January 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "state": "collapsed",
+          "template": "crisis in venezuela"
+        }
+      ]
+    }
+  ]
+}

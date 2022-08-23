@@ -1,0 +1,789 @@
+{
+  "title": "Jorge Rodríguez (Venezuelan politician)",
+  "pageID": 8767262,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "People from Barquisimeto",
+    "Fifth Republic Movement politicians",
+    "United Socialist Party of Venezuela politicians",
+    "Vice presidents of Venezuela",
+    "Electoral branch of the Government of Venezuela",
+    "Mayors of places in Venezuela",
+    "Central University of Venezuela alumni",
+    "Andrés Bello Catholic University alumni",
+    "People of the Crisis in Venezuela"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jorge Jesús Rodríguez Gómez (born 9 November 1965) is a Venezuelan politician and psychiatrist serving as President of the National Assembly of Venezuela since 2021.",
+              "links": [
+                {
+                  "text": "Venezuelan",
+                  "type": "internal",
+                  "page": "Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the National Assembly of Venezuela"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jorge Jesús Rodríguez Gómez"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the vice president of Venezuela from 2007 to 2008 and as Mayor of the Libertador Bolivarian Municipality from 2009 to 2017.",
+              "links": [
+                {
+                  "text": "vice president of Venezuela",
+                  "type": "internal",
+                  "page": "vice president of Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "Libertador Bolivarian Municipality"
+                }
+              ]
+            },
+            {
+              "text": "He is the brother of Delcy Rodríguez, the current vice president.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Delcy Rodríguez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rodríguez was elected as president of the National Assembly of Venezuela, after being nominated by the Great Patriotic Pole on 5 January 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "Great Patriotic Pole"
+                }
+              ]
+            },
+            {
+              "text": "Rodríguez will direct the first year of the 5th Legislature of the National Assembly, which resulted from elections held on 6 December 2020.",
+              "links": [
+                {
+                  "text": "elections held on 6 December 2020",
+                  "type": "internal",
+                  "page": "2020 Venezuelan parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Venezuelan politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "es",
+          "otherarticle": "Jorge Rodríguez Gómez",
+          "date": "February 2022",
+          "template": "expand language"
+        },
+        {
+          "year": "1965",
+          "month": "11",
+          "day": "9",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jorge Rodríguez"
+          },
+          "image": {
+            "text": "Jorge Rodríguez Gómez.jpg"
+          },
+          "caption": {
+            "text": "Jorge Rodríguez in January 2016"
+          },
+          "office2": {
+            "text": "Minister of Popular Power for Communication and Information",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Popular Power for Communication and Information"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 3, 2017"
+          },
+          "term_end2": {
+            "text": "September 4, 2020"
+          },
+          "president2": {
+            "text": "Nicolás Maduro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolás Maduro"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Ernesto Villegas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ernesto Villegas"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Freddy Ñáñez"
+          },
+          "office3": {
+            "text": "Mayor of the Libertador Bolivarian Municipality",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Libertador Bolivarian Municipality"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "December 1, 2009"
+          },
+          "term_end3": {
+            "text": "November 3, 2017"
+          },
+          "predecessor3": {
+            "text": "Freddy Bernal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freddy Bernal"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Luis Lira"
+          },
+          "office4": {
+            "text": "Vice President of Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Venezuela"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Hugo Chávez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugo Chávez"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "January 8, 2007"
+          },
+          "term_end4": {
+            "text": "January 3, 2008"
+          },
+          "predecessor4": {
+            "text": "Jose Vicente Rangel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jose Vicente Rangel"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Ramón Carrizales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramón Carrizales"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Jorge Jesús Rodríguez Gómez"
+          },
+          "birth_date": {
+            "text": "November 9, 1965"
+          },
+          "birth_place": {
+            "text": "Barquisimeto, Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barquisimeto"
+              },
+              {
+                "type": "internal",
+                "page": "Venezuela"
+              }
+            ]
+          },
+          "party": {
+            "text": "United Socialist Party of Venezuela (PSUV) (from 2007)\nFifth Republic Movement (until 2007)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Socialist Party of Venezuela"
+              },
+              {
+                "type": "internal",
+                "page": "Fifth Republic Movement"
+              }
+            ]
+          },
+          "children": {
+            "text": "Lucía Rodríguez Héctor Rodríguez"
+          },
+          "relatives": {
+            "text": "Delcy Rodríguez (sister)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Delcy Rodríguez"
+              }
+            ]
+          },
+          "office": {
+            "text": "12th President of the National Assembly of Venezuela (contested)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the National Assembly of Venezuela"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "January 5, 2021 Disputed with Juan Guaidó",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Guaidó"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Disputed with Juan Guaidó"
+              ]
+            }
+          },
+          "predecessor": {
+            "text": "Luis Parra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luis Parra"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Nacional",
+          "first": "El",
+          "date": "2021-01-04",
+          "title": "Proponen a Jorge Rodríguez como nuevo presidente de la AN",
+          "url": "https://www.elnacional.com/venezuela/el-regimen-propone-a-jorge-rodriguez-como-presidente-de-la-an/",
+          "access-date": "2021-01-05",
+          "website": "EL NACIONAL",
+          "language": "es-VE",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Jorge Rodríguez presidirá nueva AN; Iris Varela y Didalco Bolívar, vicepresidentes",
+          "url": "https://www.panorama.com.ve/politicayeconomia/Jorge-Rodriguez-presidira-nueva-AN-Iris-Varela-y-Didalco-Bolivar-vicepresidentes--20210104-0045.html",
+          "access-date": "2021-01-05",
+          "website": "PANORAMA.com.ve",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-01-04",
+          "title": "Bloque de la Patria propone a Jorge Rodríguez como presidente de la AN",
+          "url": "https://primicia.com.ve/nacion/bloque-de-la-patria-propone-a-jorge-rodriguez-como-presidente-de-la-an/",
+          "access-date": "2021-01-05",
+          "website": "Diario Primicia",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born in Barquisimeto.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Barquisimeto"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his appointment as vice-president, Rodríguez had been the chief of Venezuela's National Electoral Council.",
+              "links": [
+                {
+                  "text": "National Electoral Council",
+                  "type": "internal",
+                  "page": "National Electoral Council (Venezuela)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 3 January 2007 President Hugo Chávez announced that Rodríguez would be the next vice president, replacing José Vicente Rangel.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hugo Chávez"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Vicente Rangel"
+                }
+              ]
+            },
+            {
+              "text": "He was sworn in on 8 January, two days before Chávez's swearing in for his next term as president."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rodríguez studied medicine at the Central University of Venezuela (UCV); he was the president of the Federation of University Centers in 1988.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central University of Venezuela"
+                }
+              ]
+            },
+            {
+              "text": "After graduating, he studied psychiatry at the UCV and community clinical psychology at the Andrés Bello Catholic University.",
+              "links": [
+                {
+                  "text": "Andrés Bello Catholic University",
+                  "type": "internal",
+                  "page": "Universidad Católica Andrés Bello"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He headed the government's campaign in favor of a group of constitutional amendments in the December 2007 referendum.",
+              "links": [
+                {
+                  "text": "December 2007 referendum",
+                  "type": "internal",
+                  "page": "2007 Venezuelan constitutional referendum"
+                }
+              ]
+            },
+            {
+              "text": "Following the defeat of the referendum, Chávez announced on 3 January 2008 that he was replacing Rodríguez with Ramón Carrizales, previously the Minister of Housing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ramón Carrizales"
+                }
+              ]
+            },
+            {
+              "text": "Chávez said that Rodríguez would concentrate on developing the new United Socialist Party of Venezuela.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Socialist Party of Venezuela"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the November 2008 regional elections, Rodríguez was elected as Mayor of the Libertador District in Caracas.",
+              "links": [
+                {
+                  "text": "November 2008 regional elections",
+                  "type": "internal",
+                  "page": "2008 Venezuelan regional elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Caracas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Sanctions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodríguez has been sanctioned by several countries and is banned from entering neighboring Colombia.",
+              "links": [
+                {
+                  "text": "sanctioned by several countries",
+                  "type": "internal",
+                  "page": "International sanctions during the Venezuelan crisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Canada",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 22 September 2017, Canada sanctioned Rodríguez due to rupture of Venezuela's constitutional order following the 2017 Venezuelan Constituent Assembly election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canada"
+                },
+                {
+                  "text": "2017 Venezuelan Constituent Assembly election",
+                  "type": "internal",
+                  "page": "2017 Venezuelan Constituent Assembly election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Venezuela sanctions",
+          "url": "https://www.canada.ca/en/global-affairs/news/2017/09/venezuela_sanctions.html",
+          "website": "Government of Canada",
+          "access-date": "22 September 2017",
+          "language": "en",
+          "date": "22 September 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Canada sanctions 40 Venezuelans with links to political, economic crisis",
+          "url": "https://beta.theglobeandmail.com/news/world/canada-sanctions-40-venezuelans-with-links-to-political-economic-crisis/article36367074/?ref=http://www.theglobeandmail.com&",
+          "access-date": "22 September 2017",
+          "work": "The Globe and Mail",
+          "date": "22 September 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Colombia",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In January 2019, Rodríguez was banned by Colombia from entering the country, included in an entry ban list of over 200 people with a \"close relationship and support for the Nicolás Maduro regime.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "30 January 2019",
+          "title": "Maduro encabeza lista de 200 venezolanos que no pueden entrar al país",
+          "language": "es",
+          "trans-title": "Maduro tops list of 200 Venezuelans who can not enter the country",
+          "work": "El Tiempo",
+          "quote": "\"Inicialmente serían más de 200 las personas incluidas dentro de esta lista de posibles inadmitidos por Colombia, dada su estrecha relación y apoyo al régimen de Nicolás Maduro\"",
+          "url": "https://www.eltiempo.com/politica/gobierno/colombia-prohibe-el-ingreso-al-pais-a-200-personas-cercanas-a-maduro-320994",
+          "access-date": "13 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "31 January 2019",
+          "title": "Primera parte de lista de colaboradores de Maduro que no pueden ingresar a Colombia",
+          "trans-title": "First part of list of Maduro collaborators who can not enter Colombia",
+          "url": "https://www.rcnradio.com/colombia/primera-parte-de-lista-de-colaboradores-de-maduro-que-no-pueden-ingresar-colombia",
+          "access-date": "13 April 2019",
+          "publisher": "RCN Radio",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "United States",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The United States sanctioned Rodriguez on 25 September 2018 for his efforts in solidifying President Maduro's power in Venezuela."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.upi.com/Top_News/World-News/2018/09/25/US-targets-Venezuelans-with-new-sanctions-for-corruption/1321537888346/",
+          "title": "U.S. targets Venezuelans with new sanctions for corruption",
+          "work": "UPI",
+          "access-date": "2018-09-27",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "His father, Jorge Antonio Rodríguez, was a leader in the Socialist League of Venezuela.",
+              "links": [
+                {
+                  "text": "Socialist League",
+                  "type": "internal",
+                  "page": "Socialist League (Venezuela)"
+                }
+              ]
+            },
+            {
+              "text": "He was arrested in 1976 as a suspect in the kidnapping by guerrillas of William Frank Niehous, vice-president of the Owens-Illinois Venezuela, and tortured to death by the police."
+            },
+            {
+              "text": "His sister, Delcy Rodríguez, has also served as a senior official during the Maduro administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Delcy Rodríguez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the pandemic in Venezuela, Rodríguez tested positive for COVID-19 on 13 August 2020.",
+              "links": [
+                {
+                  "text": "pandemic in Venezuela",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Jorge Antonio Rodríguez",
+          "lan1": "es",
+          "template": "ill"
+        },
+        {
+          "text": "William Frank Niehous",
+          "lan1": "es",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://cmswp.panodi.com/sucesos/se-cumplen-40-anos-del-secuestro-mas-largo-en-venezuela-caso-niehous/",
+          "title": "Se cumplen 40 años del secuestro más largo en Venezuela, caso Niehous",
+          "access-date": "21 April 2020",
+          "date": "27 February 2016",
+          "language": "es",
+          "website": "Panorama",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Márquez",
+          "first": "Laureano",
+          "author-link": "Laureano Márquez",
+          "title": "Historieta de Venezuela",
+          "date": "2018",
+          "isbn": "978-1-7328777-1-9",
+          "language": "es",
+          "chapter": "La democracia pierde energía",
+          "page": "119",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "¡Se acabó el berrinche! Delcy Eloína sale de la cancillería",
+          "url": "https://www.lapatilla.com/site/2017/06/21/se-acabo-el-berrinche-delcy-eloina-sale-de-la-cancilleria/",
+          "access-date": "22 June 2017",
+          "work": "La Patilla",
+          "date": "21 June 2017",
+          "language": "es-ES",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "13 August 2020",
+          "title": "Close adviser to Venezuela’s president has coronavirus",
+          "work": "Associated Press",
+          "url": "https://apnews.com/7f812423ac1cb9d56bf64ab6dea718fa",
+          "access-date": "13 August 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "title": "Mayor of Libertador Municipality",
+          "before": "Freddy Bernal",
+          "after": "Luis Lira",
+          "years": "2008&ndash;2017",
+          "template": "succession box"
+        },
+        {
+          "title": "Vice President of Venezuela",
+          "before": "José Vicente Rangel",
+          "after": "Ramón Carrizales",
+          "years": "2007&ndash;2008",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "bolivarian venezuela crisis"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Jorge Rodríguez Gómez (Vicepresidencia de la República)",
+            "links": [
+              {
+                "text": "Jorge Rodríguez Gómez (Vicepresidencia de la República)",
+                "type": "external",
+                "site": "https://web.archive.org/web/20130411235856/http://www.vicepresidencia.gob.ve/info_mh_jr.php"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
