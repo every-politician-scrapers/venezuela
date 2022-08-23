@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Venezuela)",
+        "Vargas (state)"
+      ],
+      "stated_as": "Deputy of the National Assembly of Venezuela for Vargas"
+    },
+    "P580": "2016-01-05",
+    "P582": "2021-01-05"
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Venezuela)"
+      ],
+      "stated_as": "Majority Leader of the National Assembly of Venezuela"
+    },
+    "P580": "2018-01-05",
+    "P1365": {
+      "links": [
+        "Stalin González"
+      ],
+      "stated_as": "Stalin González"
+    },
+    "P582": "2019-01-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos Prosperi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Assembly of Venezuela"
+      ],
+      "stated_as": "10th President of the National Assembly of Venezuela"
+    },
+    "P580": "2019-01-05",
+    "P1365": {
+      "links": [
+        "Omar Barboza"
+      ],
+      "stated_as": "Omar Barboza"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Popular Power for Communication and Information"
+      ],
+      "stated_as": "Minister of Popular Power for Communication and Information"
+    },
+    "P580": "2013-08-03",
+    "P1365": {
+      "links": [
+        "Ernesto Villegas"
+      ],
+      "stated_as": "Ernesto Villegas"
+    },
+    "P582": "2014-10-13",
+    "P1366": {
+      "links": [
+        "Jacqueline Faria"
+      ],
+      "stated_as": "Jacqueline Faria"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of Venezuela"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2014-12-26",
+    "P1365": {
+      "links": [
+        "Rafael Ramírez (Venezuela)"
+      ],
+      "stated_as": "Rafael Ramírez"
+    },
+    "P582": "2017-06-21",
+    "P1366": {
+      "links": [
+        "Samuel Moncada"
+      ],
+      "stated_as": "Samuel Moncada"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "2017 Constituent Assembly of Venezuela"
+      ],
+      "stated_as": "President of the Constituent Assembly"
+    },
+    "P580": "2017-08-04",
+    "P1365": {
+      "links": [
+        "Luis Miquilena"
+      ],
+      "stated_as": "Luis Miquilena (1999)"
+    },
+    "P582": "2018-06-14",
+    "P1366": {
+      "links": [
+        "Diosdado Cabello"
+      ],
+      "stated_as": "Diosdado Cabello"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Venezuela"
+      ],
+      "stated_as": "Vice President of Venezuela"
+    },
+    "P580": "2018-06-14",
+    "P1365": {
+      "links": [
+        "Tareck El Aissami"
+      ],
+      "stated_as": "Tareck El Aissami"
+    }
+  }
+]

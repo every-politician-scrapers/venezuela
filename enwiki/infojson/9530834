@@ -1,0 +1,98 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Venezuela)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2000-07-30",
+    "P582": "2012-02-02"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the National Assembly of Venezuela",
+        "National Assembly (Venezuela)"
+      ],
+      "stated_as": "4th President of the National Assembly"
+    },
+    "P580": "2006-08-15",
+    "P1365": {
+      "links": [
+        "Nicolás Maduro"
+      ],
+      "stated_as": "Nicolás Maduro"
+    },
+    "P582": "2011-01-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Fernando Soto Rojas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Attorney General of Venezuela"
+    },
+    "P580": "2012-01-25",
+    "P1365": {
+      "links": [
+        "Carlos Escarrá"
+      ],
+      "stated_as": "Carlos Escarrá"
+    },
+    "P582": "2013-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Manuel Enrique Galindo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Lady of Venezuela"
+      ],
+      "stated_as": "First Lady of Venezuela"
+    },
+    "P580": "2013-04-19",
+    "P1365": {
+      "links": [
+        "Marisabel Rodríguez de Chávez"
+      ],
+      "stated_as": "Marisabel Rodríguez de Chávez"
+    },
+    "P582": "2013-04-19",
+    "P1366": {
+      "links": [
+        "Fabiana Rosales"
+      ],
+      "stated_as": "Fabiana Rosales (Disputed)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Venezuela)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2016-01-05",
+    "P582": "2017-06-02"
+  },
+  {
+    "office": {
+      "links": [
+        "2017 Constituent National Assembly"
+      ],
+      "stated_as": "Member of the National Constituent Assembly"
+    },
+    "P580": "2017-08-04"
+  }
+]
