@@ -1,7 +1,4 @@
 item,itemLabel,minister,ministerLabel
-Q109557603,Q109557603,Q16607785,Minister of Food
-Q16607751,Q16607751,,
-Q16607779,Q16607779,,
 Q16607782,Q16607782,,
 Q18416635,Q18416635,,
 Q38028955,Q38028955,,
@@ -13,9 +10,12 @@ Q6017563,Q6017563,,
 Q25406610,Ministerio del Poder Popular para el Ecosocialismo,,
 Q4141111,Ministerio del Poder Popular para la Salud,,
 Q16607803,Ministry of Economy and Finance (Venezuela),,
+Q109557603,Ministry of Food of Venezuela,Q16607785,Minister of Food
 Q16607763,Ministry of Foreign Affairs of the Bolivarian Republic of Venezuela,Q113470515,Minister of Foreign Affairs of the Bolivarian Republic of Venezuela
 Q6867073,Ministry of Ground Transport,,
 Q16607766,"Ministry of Popular Power for Interior, Justice and Peace",,
+Q16607779,Ministry of Popular Power for Labour and Social Security,,
+Q16607751,Ministry of Popular Power for Petroleum and Mining,,
 Q18416638,"Ministry of Popular Power for University Education, Science and Technology",,
 Q6867627,Ministry of Transport and Communications,,
 Q108257421,Ministry of the Popular Power of Ecological Mining Development,,
