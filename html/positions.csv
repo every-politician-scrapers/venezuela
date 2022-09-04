@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q11942698,Player of soccer,Q717,Q717,Q3556895,Q380438,1830-01-13,,,,President of Venezuela
-Q3556895,Vice President of Venezuela,Q717,Q717,,,1830,,,,Vice President of Venezuela
+Q3556895,Vice President of Venezuela,Q717,Q717,,,1830,1858,,,Vice President of Venezuela
 Q28706232,,Q717,Q717,,,,,,,
 Q113578029,Venezuelan Minister of Communications and Information,,Q717,,,,,,,
 Q113578049,Venezuelan Minister of the Popular Participation for the Defense,,Q717,,,,,,,
