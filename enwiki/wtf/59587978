@@ -192,9 +192,6 @@
               "text": "On 9 July 2019 negotiations started again in Barbados with representatives of Guaidó and Maduro."
             },
             {
-              "text": "On 15 September, Guaidó announced that the opposition concluded the dialogue after the absence of the government in the negotiations for forty days as a protest to the recent sanctions by the United States."
-            },
-            {
               "text": "In January 2020, security forces prevented Guaidó and other congress members from entering the legislative palace during an internal election to choose the board of directors.",
               "links": [
                 {
@@ -357,10 +354,6 @@
             "12"
           ],
           "template": "as of"
-        },
-        {
-          "date": "July 2021",
-          "template": "cita requerida"
         },
         {
           "date": "December 2021",
@@ -5174,6 +5167,22 @@
               "text": "Guaidó required to keep the committee informed of how he had spent funds under his control."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2022, Colombian President Gustavo Petro described Guaidó as a \"non-existent\" president with no control over the country and announced that his government would recognize only the Maduro government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gustavo Petro"
+                }
+              ]
+            },
+            {
+              "text": "Guaidó criticized Petro's reversal of recognition from the policy of prior Colombian President Ivan Duque, claiming that Maduro sheltered world terrorism."
+            }
+          ]
         }
       ],
       "tables": [
@@ -5942,6 +5951,28 @@
           "language": "en",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "GrupoRPP",
+          "date": "2022-08-15",
+          "title": "Colombia: Gustavo Petro considera que Juan Guaidó es un presidente venezolano \"inexistente\"",
+          "url": "https://rpp.pe/mundo/colombia/colombia-gustavo-petro-considera-que-juan-guaido-es-un-presidente-inexistente-noticia-1424872",
+          "access-date": "2022-09-08",
+          "website": "RPP",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "de 2022",
+          "first": "13 de Agosto",
+          "title": "Juan Guaidó criticó a Gustavo Petro por reconocer al dictador Nicolás Maduro: “Ampara el terrorismo mundial en Venezuela”",
+          "url": "https://www.infobae.com/america/venezuela/2022/08/13/juan-guaido-critico-a-gustavo-petro-por-reconocer-al-dictador-nicolas-maduro-ampara-el-terrorismo-mundial-en-venezuela/",
+          "access-date": "2022-09-08",
+          "website": "infobae",
+          "language": "es-ES",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.elnuevoherald.com/noticias/mundo/america-latina/venezuela-es/article225236365.html",
