@@ -143,9 +143,6 @@
               ]
             },
             {
-              "text": "Maduro's administration, according to the New York Times, was held \"responsible for grossly mismanaging the economy and plunging the country into a deep humanitarian crisis\" and attempting to \"crush the opposition by jailing or exiling critics, and using lethal force against antigovernment protesters\"."
-            },
-            {
               "text": "An opposition-led National Assembly was elected in 2015 and a movement toward recalling Maduro began in 2016, which was ultimately cancelled by Maduro's government; Maduro maintained power through the Supreme Tribunal, the National Electoral Council and the military.",
               "links": [
                 {
@@ -215,91 +212,6 @@
                   "text": "failed military uprising",
                   "type": "internal",
                   "page": "2019 Venezuelan uprising attempt"
-                }
-              ]
-            },
-            {
-              "text": "On 26 March 2020, the U.S. Department of Justice indicted Maduro on charges of drug trafficking and narco-terrorism, and the Department of State offered a $15 million reward for information that helps \"bring him to justice\".",
-              "links": [
-                {
-                  "text": "Department of Justice",
-                  "type": "internal",
-                  "page": "United States Department of Justice"
-                },
-                {
-                  "text": "narco-terrorism",
-                  "type": "internal",
-                  "page": "narco-terrorism"
-                },
-                {
-                  "type": "internal",
-                  "page": "Department of State"
-                }
-              ]
-            },
-            {
-              "text": "Many nations did not recognize the Constituent Assembly election or the validity of Maduro's 2018 reelection, and several proceeded to sanction Maduro.",
-              "links": [
-                {
-                  "text": "Constituent Assembly election",
-                  "type": "internal",
-                  "page": "2017 Venezuelan Constituent Assembly election",
-                  "anchor": "Reactions"
-                },
-                {
-                  "text": "validity of Maduro's 2018 reelection",
-                  "type": "internal",
-                  "page": "2018 Venezuelan presidential election",
-                  "anchor": "Unrecognized"
-                },
-                {
-                  "text": "sanction Maduro",
-                  "type": "internal",
-                  "page": "International sanctions during the Venezuelan crisis"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2021 International Criminal Court (ICC) Prosecutor Karim Khan announced the opening of an investigation regarding the situation in the country.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "International Criminal Court"
-                },
-                {
-                  "text": "Karim Khan",
-                  "type": "internal",
-                  "page": "Karim Ahmad Khan"
-                }
-              ]
-            },
-            {
-              "text": "In 2021, the United Nations Fact-Finding Mission on Venezuela concluded that the country's justice system independence has been deeply eroded."
-            },
-            {
-              "text": "According to the National Union of Press Workers of Venezuela, 115 media outlets were shut down between 2013 and 2018, and since 2019 Venezuela has been exposed to frequent \"information blackouts\"."
-            },
-            {
-              "text": "Most Venezuelan television channels are controlled by the state, and information unfavorable to the government is not covered completely."
-            },
-            {
-              "text": "The dependence of Venezuelans on social media has also promoted the spread of disinformation and pro-Maduro propaganda."
-            },
-            {
-              "text": "Venezuela got the rank 148 of 180 in the World Press Freedom Index of Reporters Without Borders in 2019.",
-              "links": [
-                {
-                  "text": "World Press Freedom Index",
-                  "type": "internal",
-                  "page": "Press Freedom Index"
-                },
-                {
-                  "type": "internal",
-                  "page": "Reporters Without Borders"
                 }
               ]
             }
@@ -770,40 +682,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.state.gov/department-of-state-offers-rewards-for-information-to-bring-venezuelan-drug-traffickers-to-justice/",
-          "title": "Department of State Offers Rewards for Information to Bring Venezuelan Drug Traffickers to Justice",
-          "website": "state.gov",
-          "date": "26 March 2020",
-          "archive-url": "https://web.archive.org/web/20200327030449/https://www.state.gov/department-of-state-offers-rewards-for-information-to-bring-venezuelan-drug-traffickers-to-justice/",
-          "archive-date": "27 March 2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.laht.com/article.asp?ArticleId=2440793&CategoryId=10717",
-          "title": "Almagro, 13 OAS Nations Demand Maduro Suspend Constitutional Assembly",
-          "date": "26 July 2017",
-          "work": "Latin American Herald Tribune",
-          "access-date": "29 July 2017",
-          "archive-date": "30 July 2017",
-          "archive-url": "https://web.archive.org/web/20170730020151/http://www.laht.com/article.asp?ArticleId=2440793&CategoryId=10717",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Leung",
-          "first": "Hilary",
-          "date": "18 April 2019",
-          "title": "2019 World Press Freedom Index Shows Global Decline",
-          "url": "http://time.com/5572179/reporters-without-borders-rsf-world-press-freedom-2019/",
-          "magazine": "Time",
-          "access-date": "18 April 2019",
-          "template": "citation",
-          "type": "magazine"
-        },
-        {
           "title": "Venezuela's Future in Balance",
           "url": "https://www.wsj.com/articles/SB10001424127887324001104578168283496596560",
           "access-date": "10 December 2012",
@@ -852,19 +730,6 @@
           "agency": "Business Insider",
           "archive-date": "22 June 2016",
           "archive-url": "https://web.archive.org/web/20160622123003/http://www.businessinsider.com/how-venezuela-went-bad-2016-6",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.nytimes.com/2019/03/08/world/americas/venezuela-blackout-power.html",
-          "work": "New York Times",
-          "title": "Venezuela blackout, in 2nd day, threatens food supplies and patient lives",
-          "date": "8 March 2019",
-          "access-date": "18 March 2019",
-          "quote": "The Maduro administration has been responsible for grossly mismanaging the economy and plunging the country into a deep humanitarian crisis in which many people lack food and medical care. He has also attempted to crush the opposition by jailing or exiling critics, and using lethal force against antigovernment protesters.",
-          "archive-date": "16 March 2019",
-          "archive-url": "https://web.archive.org/web/20190316205111/https://www.nytimes.com/2019/03/08/world/americas/venezuela-blackout-power.html",
           "url-status": "live",
           "template": "citation",
           "type": "news"
@@ -920,114 +785,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://www.npr.org/2020/03/26/821933849/u-s-unseals-drug-trafficking-charges-against-venezuelas-president-maduro",
-          "title": "U.S. Unseals Drug Trafficking Charges Against Venezuela's President Maduro",
-          "website": "NPR.org",
-          "access-date": "26 March 2020",
-          "archive-date": "26 March 2020",
-          "archive-url": "https://web.archive.org/web/20200326154508/https://www.npr.org/2020/03/26/821933849/u-s-unseals-drug-trafficking-charges-against-venezuelas-president-maduro",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Venezuela sanctions",
-          "url": "https://www.canada.ca/en/global-affairs/news/2017/09/venezuela_sanctions.html",
-          "website": "Government of Canada",
-          "access-date": "22 September 2017",
-          "date": "22 September 2017",
-          "archive-date": "16 November 2018",
-          "archive-url": "https://web.archive.org/web/20181116095333/https://www.canada.ca/en/global-affairs/news/2017/09/venezuela_sanctions.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Canada sanctions 40 Venezuelans with links to political, economic crisis",
-          "url": "https://beta.theglobeandmail.com/news/world/canada-sanctions-40-venezuelans-with-links-to-political-economic-crisis/article36367074/?ref=https://www.theglobeandmail.com&",
-          "access-date": "22 September 2017",
-          "work": "The Globe and Mail",
-          "date": "22 September 2017",
-          "archive-date": "3 December 2021",
-          "archive-url": "https://web.archive.org/web/20211203221258/https://www.theglobeandmail.com/news/world/canada-sanctions-40-venezuelans-with-links-to-political-economic-crisis/article36367074/?ref=https%3A%2F%2Fwww.theglobeandmail.com",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "29 March 2018",
-          "title": "Estos son los 55 \"rojitos\" que Panamá puso en la mira por fondos dudosos {{!}} El Cooperante",
-          "language": "es-ES",
-          "work": "El Cooperante",
-          "url": "https://elcooperante.com/conozca-a-los-55-jerarcas-chavistas-que-panama-puso-en-la-mira-por-fondos-dudosos/",
-          "url-status": "live",
-          "access-date": "1 April 2018",
-          "archive-url": "https://web.archive.org/web/20180402101149/https://elcooperante.com/conozca-a-los-55-jerarcas-chavistas-que-panama-puso-en-la-mira-por-fondos-dudosos/",
-          "archive-date": "2 April 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2021-11-04",
-          "title": "Venezuela faces landmark ICC investigation over alleged crimes against humanity",
-          "url": "https://www.theguardian.com/world/2021/nov/04/venezuela-faces-landmark-icc-investigation-over-alleged-crimes-against-humanity",
-          "access-date": "2022-01-20",
-          "website": "Associated Press",
-          "publisher": "The Guardian",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "16 September 2021",
-          "title": "Venezuela's justice system aiding repression: Human rights probe",
-          "work": "United Nations News",
-          "url": "https://news.un.org/en/story/2021/09/1100122",
-          "access-date": "24 March 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Venezuela judicial independence deeply eroded: UN rights experts",
-          "url": "https://www.jurist.org/news/2021/09/venezuela-judicial-independence-deeply-eroded-un-rights-experts/",
-          "access-date": "2022-03-24",
-          "website": "Jurist.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Banwait",
-          "first": "Harjyot",
-          "date": "2021-09-19",
-          "title": "Venezuela’s Justice System Perpetuating Human Rights Abuses",
-          "url": "https://theowp.org/venezuelas-justice-system-perpetuating-human-rights-abuses/",
-          "access-date": "2022-03-24",
-          "website": "The Organization for World Peace",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Nugent",
-          "first": "Clara",
-          "date": "16 April 2019",
-          "title": "Inside the Battle to Get News to Venezuelans",
-          "url": "http://time.com/5571504/venezuela-internet-press-freedom/",
-          "magazine": "Time",
-          "access-date": "17 April 2019",
-          "template": "citation",
-          "type": "magazine"
-        },
-        {
-          "date": "1 May 2019",
-          "title": "Venezuelan authorities restrict internet, block outlets amid unrest",
-          "url": "https://cpj.org/2019/05/venezuelan-authorities-restrict-internet-block-out.php",
-          "access-date": "2 May 2019",
-          "website": "CPJ",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -5926,6 +5683,27 @@
           "type": "magazine"
         },
         {
+          "last": "Nugent",
+          "first": "Clara",
+          "date": "16 April 2019",
+          "title": "Inside the Battle to Get News to Venezuelans",
+          "url": "http://time.com/5571504/venezuela-internet-press-freedom/",
+          "magazine": "Time",
+          "access-date": "17 April 2019",
+          "template": "citation",
+          "type": "magazine"
+        },
+        {
+          "date": "1 May 2019",
+          "title": "Venezuelan authorities restrict internet, block outlets amid unrest",
+          "url": "https://cpj.org/2019/05/venezuelan-authorities-restrict-internet-block-out.php",
+          "access-date": "2 May 2019",
+          "website": "CPJ",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.elimpulso.com/2019/03/13/173-agresiones-a-trabajadores-de-la-prensa-contabiliza-comision-de-medios-de-la-asamblea-nacional-13mar/",
           "title": "173 agresiones a trabajadores de la prensa contabiliza Comisión de Medios de la Asamblea Nacional #13Mar",
           "last": "Escalona",
@@ -6324,6 +6102,16 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2021-11-04",
+          "title": "Venezuela faces landmark ICC investigation over alleged crimes against humanity",
+          "url": "https://www.theguardian.com/world/2021/nov/04/venezuela-faces-landmark-icc-investigation-over-alleged-crimes-against-humanity",
+          "access-date": "2022-01-20",
+          "website": "Associated Press",
+          "publisher": "The Guardian",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -6350,6 +6138,37 @@
               "text": "The report also concluded that prosecutorial and judicial individuals at all levels witness or experienced external interference in decision-making, and that several reported receiving instructions either from the judicial or prosecutorial hierarchy or from political officials on how to decide cases."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "date": "16 September 2021",
+          "title": "Venezuela's justice system aiding repression: Human rights probe",
+          "work": "United Nations News",
+          "url": "https://news.un.org/en/story/2021/09/1100122",
+          "access-date": "24 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Venezuela judicial independence deeply eroded: UN rights experts",
+          "url": "https://www.jurist.org/news/2021/09/venezuela-judicial-independence-deeply-eroded-un-rights-experts/",
+          "access-date": "2022-03-24",
+          "website": "Jurist.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Banwait",
+          "first": "Harjyot",
+          "date": "2021-09-19",
+          "title": "Venezuela’s Justice System Perpetuating Human Rights Abuses",
+          "url": "https://theowp.org/venezuelas-justice-system-perpetuating-human-rights-abuses/",
+          "access-date": "2022-03-24",
+          "website": "The Organization for World Peace",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -6637,6 +6456,17 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.npr.org/2020/03/26/821933849/u-s-unseals-drug-trafficking-charges-against-venezuelas-president-maduro",
+          "title": "U.S. Unseals Drug Trafficking Charges Against Venezuela's President Maduro",
+          "website": "NPR.org",
+          "access-date": "26 March 2020",
+          "archive-date": "26 March 2020",
+          "archive-url": "https://web.archive.org/web/20200326154508/https://www.npr.org/2020/03/26/821933849/u-s-unseals-drug-trafficking-charges-against-venezuelas-president-maduro",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -7315,6 +7145,30 @@
           "type": "web"
         },
         {
+          "title": "Venezuela sanctions",
+          "url": "https://www.canada.ca/en/global-affairs/news/2017/09/venezuela_sanctions.html",
+          "website": "Government of Canada",
+          "access-date": "22 September 2017",
+          "date": "22 September 2017",
+          "archive-date": "16 November 2018",
+          "archive-url": "https://web.archive.org/web/20181116095333/https://www.canada.ca/en/global-affairs/news/2017/09/venezuela_sanctions.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Canada sanctions 40 Venezuelans with links to political, economic crisis",
+          "url": "https://beta.theglobeandmail.com/news/world/canada-sanctions-40-venezuelans-with-links-to-political-economic-crisis/article36367074/?ref=https://www.theglobeandmail.com&",
+          "access-date": "22 September 2017",
+          "work": "The Globe and Mail",
+          "date": "22 September 2017",
+          "archive-date": "3 December 2021",
+          "archive-url": "https://web.archive.org/web/20211203221258/https://www.theglobeandmail.com/news/world/canada-sanctions-40-venezuelans-with-links-to-political-economic-crisis/article36367074/?ref=https%3A%2F%2Fwww.theglobeandmail.com",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article164575852.htm",
           "title": "U.S. slaps sanctions on Maduro and labels him a 'dictator'",
           "last": "Mazzei",
@@ -7322,6 +7176,19 @@
           "date": "31 July 2017",
           "work": "Miami Herald",
           "access-date": "22 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "29 March 2018",
+          "title": "Estos son los 55 \"rojitos\" que Panamá puso en la mira por fondos dudosos {{!}} El Cooperante",
+          "language": "es-ES",
+          "work": "El Cooperante",
+          "url": "https://elcooperante.com/conozca-a-los-55-jerarcas-chavistas-que-panama-puso-en-la-mira-por-fondos-dudosos/",
+          "url-status": "live",
+          "access-date": "1 April 2018",
+          "archive-url": "https://web.archive.org/web/20180402101149/https://elcooperante.com/conozca-a-los-55-jerarcas-chavistas-que-panama-puso-en-la-mira-por-fondos-dudosos/",
+          "archive-date": "2 April 2018",
           "template": "citation",
           "type": "news"
         },
