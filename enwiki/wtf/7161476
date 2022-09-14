@@ -240,10 +240,6 @@
           "template": "use dmy dates"
         },
         {
-          "date": "June 2022",
-          "template": "lead too long"
-        },
-        {
           "year": "1962",
           "month": "11",
           "day": "23",
