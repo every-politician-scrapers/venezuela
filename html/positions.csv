@@ -1,12 +1,32 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q11942698,Player of soccer,Q717,Q717,Q3556895,Q380438,1830-01-13,,,,President of Venezuela
-Q3556895,Vice President of Venezuela,Q717,Q717,,,1830,,,,Vice President of Venezuela
+Q112232309,,,,,,,,,,
+Q112306677,,,,,,,,,,
+Q21970629,,Q717,Q717,,,,,,,
 Q28706232,,Q717,Q717,,,,,,,
-Q113578029,Venezuelan Minister of Communications and Information,,Q717,,,,,,,
-Q113578049,Venezuelan Minister of the Popular Participation for the Defense,,Q717,,,,,,,
-Q113578045,Venezuelan Minister of Popular Power for Education,,Q717,,,,,,,
-Q113578038,Venezuelan Minister of Environment and Natural Resources,,Q717,,,,,,,
+Q6570933,First Lady of Venezuela,Q717,,,,1830,,,,First Lady of Venezuela
 Q28706262,Minister of Finance of Venezuela,Q717,Q717,,,,,,,
 Q16607785,Minister of Food,Q717,,,,2004,,,,
 Q113470515,Minister of Foreign Affairs of the Bolivarian Republic of Venezuela,,Q717,,Q6590392,,,,,
+Q94678483,Permanent Representative of Venezuela to the United Nations,Q717,,,,,,,,
+Q11942698,Player of soccer,Q717,Q717,Q3556895,Q380438,1830-01-13,,,,President of Venezuela
 Q6597955,President of the National Assembly of Venezuela,Q717,Q717,Q21970629,,1999,,,,President of the National Assembly of Venezuela
+Q113578029,Venezuelan Minister of Communications and Information,,Q717,,,,,,,
+Q113578038,Venezuelan Minister of Environment and Natural Resources,,Q717,,,,,,,
+Q113578045,Venezuelan Minister of Popular Power for Education,,Q717,,,,,,,
+Q113578049,Venezuelan Minister of the Popular Participation for the Defense,,Q717,,,,,,,
+Q30158724,Venezuelan ambassador,Q717,,,,,,,,
+Q110711787,Venezuelan ambassador to Spain,Q29,,,Q6605688,,,,,
+Q3556895,Vice President of Venezuela,Q717,Q717,,,1830,,,,Vice President of Venezuela
+Q40338515,ambassador of Venezuela to Canada,Q717,,,,,,,,
+Q37841620,ambassador of Venezuela to China,Q717,,,,,,,,List of ambassadors of Venezuela to China
+Q113548778,ambassador of Venezuela to Colombia,,,,,,,,,
+Q110711825,ambassador of Venezuela to Ecuador,Q736,,,,,,,,
+Q110711823,ambassador of Venezuela to France,,,,Q100493228,,,,,
+Q112306653,ambassador of Venezuela to Gabon,,,,,,,,,
+Q112306623,ambassador of Venezuela to Norway,,,,,,,,,
+Q30158535,ambassador of Venezuela to Uruguay,Q717,,,,,,,,
+Q96850702,ambassador of Venezuela to the United Kingdom,Q717,,,,,,,,
+Q5881770,governor of the state of Amazonas,Q717,,,,,,,,List of governors of Amazonas (Venezuelan state)
+Q18180916,member of the Chamber of Deputies of Venezuela,Q717,Q717,,,,,,,
+Q20011182,member of the National Assembly of Venezuela,Q717,Q717,,,,,,,
+Q20081434,senator of Venezuela,Q717,Q717,,,,,,,
