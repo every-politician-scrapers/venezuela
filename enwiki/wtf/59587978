@@ -394,7 +394,7 @@
             ]
           },
           "status1": {
-            "text": "Incumbent (contested)",
+            "text": "Incumbent",
             "links": [
               {
                 "type": "internal",
@@ -403,19 +403,7 @@
             ]
           },
           "term_start1": {
-            "text": "5 January 2019 Disputed with Jorge Rodríguez since 5 January 2021",
-            "links": [
-              {
-                "text": "Jorge Rodríguez",
-                "type": "internal",
-                "page": "Jorge Rodríguez (Venezuelan politician)"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Disputed with Jorge Rodríguez"
-              ]
-            }
+            "text": "5 January 2019"
           },
           "predecessor1": {
             "text": "Omar Barboza",
