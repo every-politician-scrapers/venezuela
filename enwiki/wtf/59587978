@@ -2708,6 +2708,7 @@
           "url": "https://www.perfil.com/noticias/internacional/juan-guaido-designo-elisa-trotta-gamus-representante-venezuela-en-argentina.phtml",
           "title": "Quién es Elisa Trotta Gamus, la representant nombró Guaidó en Argentina",
           "website": "www.perfil.com",
+          "date": "29 January 2019",
           "access-date": "30 January 2019",
           "template": "citation",
           "type": "web"
@@ -5954,7 +5955,7 @@
         {
           "last": "de 2022",
           "first": "13 de Agosto",
-          "title": "Juan Guaidó criticó a Gustavo Petro por reconocer al dictador Nicolás Maduro: “Ampara el terrorismo mundial en Venezuela”",
+          "title": "Juan Guaidó criticó a Gustavo Petro por reconocer al dictador Nicolás Maduro: \"Ampara el terrorismo mundial en Venezuela\"",
           "url": "https://www.infobae.com/america/venezuela/2022/08/13/juan-guaido-critico-a-gustavo-petro-por-reconocer-al-dictador-nicolas-maduro-ampara-el-terrorismo-mundial-en-venezuela/",
           "access-date": "2022-09-08",
           "website": "infobae",
@@ -7113,11 +7114,12 @@
       "references": [
         {
           "title": "Venezuela crisis: Juan Guaidó says family has been threatened",
+          "work": "BBC News",
+          "date": "31 January 2019",
           "url": "https://www.bbc.co.uk/news/world-latin-america-47066906",
-          "website": "BBC",
           "access-date": "31 January 2019",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "date": "31 January 2020",
