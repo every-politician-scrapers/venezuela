@@ -192,6 +192,9 @@
               "text": "On 9 July 2019 negotiations started again in Barbados with representatives of Guaidó and Maduro."
             },
             {
+              "text": "On 15 September, Guaidó announced that the opposition concluded the dialogue after the absence of the government in the negotiations for forty days as a protest to the recent sanctions by the United States."
+            },
+            {
               "text": "In January 2020, security forces prevented Guaidó and other congress members from entering the legislative palace during an internal election to choose the board of directors.",
               "links": [
                 {
@@ -560,6 +563,16 @@
           "access-date": "9 February 2019",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "15 September 2019",
+          "title": "Juan Guaidó confirmó que las negociaciones en Barbados se agotaron: \"Es el régimen el principal obstáculo para una salida política\"",
+          "url": "https://www.infobae.com/america/venezuela/2019/09/15/juan-guaido-confirmo-que-las-negociaciones-en-barbados-se-agotaron-es-el-regimen-el-principal-obstaculo-para-una-salida-politica/",
+          "access-date": "2022-09-27",
+          "website": "Infobae",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.france24.com/en/20200107-venezuela-s-guaido-sworn-in-as-parliament-speaker-after-stand-off",
@@ -5181,7 +5194,13 @@
               ]
             },
             {
-              "text": "Guaidó criticized Petro's reversal of recognition from the policy of prior Colombian President Ivan Duque, claiming that Maduro sheltered world terrorism."
+              "text": "Guaidó criticized Petro's reversal of recognition from the policy of prior Colombian President Iván Duque, saying that Maduro \"sheltered world terrorism in Venezuela\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iván Duque"
+                }
+              ]
             }
           ]
         }
@@ -5965,13 +5984,13 @@
           "type": "web"
         },
         {
-          "last": "de 2022",
-          "first": "13 de Agosto",
+          "date": "13 August 2022",
           "title": "Juan Guaidó criticó a Gustavo Petro por reconocer al dictador Nicolás Maduro: \"Ampara el terrorismo mundial en Venezuela\"",
+          "trans-title": "Juan Guaidó criticized Gustavo Petro for recognizing dictator Nicolás Maduro: \"He supports world terrorism in Venezuela\".",
           "url": "https://www.infobae.com/america/venezuela/2022/08/13/juan-guaido-critico-a-gustavo-petro-por-reconocer-al-dictador-nicolas-maduro-ampara-el-terrorismo-mundial-en-venezuela/",
           "access-date": "2022-09-08",
-          "website": "infobae",
-          "language": "es-ES",
+          "website": "Infobae",
+          "language": "es",
           "template": "citation",
           "type": "web"
         },
