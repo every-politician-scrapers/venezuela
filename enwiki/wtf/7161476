@@ -2915,7 +2915,7 @@
         },
         {
           "date": "2022-03-07",
-          "title": "Maduro hails ‘cordial’ talks with US as west seeks new oil supplies",
+          "title": "Maduro hails 'cordial' talks with US as west seeks new oil supplies",
           "language": "en",
           "work": "Financial Times",
           "url": "https://www.ft.com/content/276aac3e-25bd-45c2-b5f4-8459240c9462/",
@@ -2927,7 +2927,7 @@
           "date": "2022-03-06",
           "title": "Democrats embrace politically risky strategy on rising gas prices",
           "language": "en",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "url": "https://www.washingtonpost.com/politics/2022/03/08/gas-prices-political-threat-democrats/",
           "access-date": "2022-03-10",
           "template": "citation",
@@ -3439,12 +3439,13 @@
           "url": "https://www.ft.com/content/401e52a0-1405-11e9-a581-4ff78404524e",
           "title": "Venezuela Swears in an illegitimate President",
           "website": "Financial Times",
+          "date": "10 January 2019",
           "access-date": "11 January 2019",
           "archive-date": "20 September 2019",
           "archive-url": "https://web.archive.org/web/20190920084639/https://www.ft.com/content/401e52a0-1405-11e9-a581-4ff78404524e",
           "url-status": "live",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.nytimes.com/2019/01/10/world/americas/venezuela-maduro-inauguration.html",
@@ -4287,7 +4288,7 @@
           "date": "24 February 2019",
           "author": "Hennigan, Tom",
           "access-date": "4 March 2019",
-          "work": "The Irish Times",
+          "newspaper": "The Irish Times",
           "archive-date": "25 February 2019",
           "archive-url": "https://web.archive.org/web/20190225174638/https://www.irishtimes.com/news/world/venezuela-guaid%C3%B3-turns-to-allies-after-maduro-blocks-aid-1.3803932",
           "url-status": "live",
@@ -4504,12 +4505,13 @@
           "url": "https://www.ft.com/content/401e52a0-1405-11e9-a581-4ff78404524e",
           "title": "Venezuela swears in an illegitimate President",
           "website": "Financial Times",
+          "date": "10 January 2019",
           "access-date": "11 January 2019",
           "archive-date": "20 September 2019",
           "archive-url": "https://web.archive.org/web/20190920084639/https://www.ft.com/content/401e52a0-1405-11e9-a581-4ff78404524e",
           "url-status": "live",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.nytimes.com/2019/01/10/world/americas/venezuela-maduro-inauguration.html",
@@ -6158,7 +6160,7 @@
           "last": "Banwait",
           "first": "Harjyot",
           "date": "2021-09-19",
-          "title": "Venezuela’s Justice System Perpetuating Human Rights Abuses",
+          "title": "Venezuela's Justice System Perpetuating Human Rights Abuses",
           "url": "https://theowp.org/venezuelas-justice-system-perpetuating-human-rights-abuses/",
           "access-date": "2022-03-24",
           "website": "The Organization for World Peace",
@@ -6324,6 +6326,13 @@
               "text": "The US government offered $15 million for any information that would lead to his arrest."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maduro's nephews were freed in October 2022 as a prisoner swap for seven jailed Americans."
+            }
+          ]
         }
       ],
       "templates": [
@@ -6394,6 +6403,15 @@
           "type": "news"
         },
         {
+          "title": "US frees President Maduro's relatives in Venezuela prisoner swap",
+          "url": "https://www.bbc.com/news/world-latin-america-63105944",
+          "access-date": "2 October 2022",
+          "work": "BBC News",
+          "date": "1 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "last1": "Yagoub",
           "first1": "Mimi",
           "title": "Venezuela Military Officials Piloted Drug Plane",
@@ -6457,10 +6475,13 @@
           "url": "https://www.npr.org/2020/03/26/821933849/u-s-unseals-drug-trafficking-charges-against-venezuelas-president-maduro",
           "title": "U.S. Unseals Drug Trafficking Charges Against Venezuela's President Maduro",
           "website": "NPR.org",
+          "date": "26 March 2020",
           "access-date": "26 March 2020",
           "archive-date": "26 March 2020",
           "archive-url": "https://web.archive.org/web/20200326154508/https://www.npr.org/2020/03/26/821933849/u-s-unseals-drug-trafficking-charges-against-venezuelas-president-maduro",
           "url-status": "live",
+          "last1": "Ewing",
+          "first1": "Philip",
           "template": "citation",
           "type": "web"
         }
