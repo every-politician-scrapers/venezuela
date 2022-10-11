@@ -598,8 +598,6 @@
           "url": "http://www.laverdad.com/politica/80434-pj-zulia-postula-a-tres-candidatos-para-la-asamblea.html",
           "title": "PJ Zulia postula a tres candidatos para la Asamblea",
           "access-date": "4 January 2019",
-          "last": "jurdaneta@laverdad.com",
-          "first": "Nota de Prensa / Maracaibo /",
           "website": "Diario La Verdad",
           "template": "citation",
           "type": "web"
@@ -608,8 +606,8 @@
           "url": "http://www.laverdad.com/politica/129019-dos-hombres-con-un-objetivo-el-palacio-de-los-condores.html",
           "title": "Dos hombres con un objetivo: El Palacio de los Cóndores",
           "access-date": "4 January 2019",
-          "last": "noticias@laverdad.com",
-          "first": "Lenys Moreno / Maracaibo /",
+          "last": "Moreon",
+          "first": "Lenys",
           "website": "Diario La Verdad",
           "template": "citation",
           "type": "web"
@@ -711,8 +709,8 @@
       ],
       "references": [
         {
-          "last": "LUENGO",
-          "first": "TERESA",
+          "last": "Luengo",
+          "first": "Teresa",
           "title": "Magdely Valbuena asumirá interinamente Gobernación del Zulia",
           "url": "http://www.eluniversal.com/noticias/venezuela/magdely-valbuena-asumira-interinamente-gobernacion-del-zulia_675552",
           "date": "26 October 2017",
@@ -787,8 +785,6 @@
           "url": "http://www.el-nacional.com/noticias/politica/participaran-elecciones-presidenciales_223759",
           "title": "AD, PJ y VP no participarán en elecciones presidenciales",
           "access-date": "4 January 2019",
-          "last": "snederr@el-nacional.com",
-          "first": "SOFÍA NEDERR {{!}}",
           "date": "20 February 2018",
           "website": "El Nacional",
           "language": "es",
@@ -799,8 +795,6 @@
           "url": "http://www.el-nacional.com/noticias/politica/primero-justicia-accion-democratica-participaran-las-presidenciales_223647",
           "title": "Primero Justicia y Acción Democrática no participarán en las presidenciales",
           "access-date": "4 January 2019",
-          "last": "Web",
-          "first": "El Nacional",
           "date": "19 February 2018",
           "website": "El Nacional",
           "language": "es",
