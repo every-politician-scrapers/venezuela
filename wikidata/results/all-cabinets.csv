@@ -13,5 +13,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q23922076,Q23922076,1964-01-01,9,,,1969-01-01,9,,,,,,,,,,
 ,Q23922078,Q23922078,1969-01-01,9,,,1974-01-01,9,,,,,,,,,,
 ,Q23922082,Q23922082,1974-01-01,9,,,1979-01-01,9,,,,,,,,,,
+,Q6085493,First Chávez Cabinet,,,1999-02-02,11,,,,,,,,,,,Q6085496,Second Chávez Cabinet
 ,Q8911,Cabinet of Hugo Chávez,1999-02-02,11,,,,,,,,,,,,,,
-,Q111722162,Second government of Nicolás Maduro,2019-01-10,11,,,,,,,,,,,,,,
+,Q6085496,Second Chávez Cabinet,,,2001-01-10,11,,,,,,,,,Q6085493,First Chávez Cabinet,Q56318038,Third Chávez Cabinet
+,Q56318038,Third Chávez Cabinet,,,2007-01-10,11,,,2013-03-04,11,,,Q55721624,First Maduro Cabinet,Q6085496,Second Chávez Cabinet,Q55721624,First Maduro Cabinet
+,Q55721624,First Maduro Cabinet,2013-03-05,11,,,2019-01-10,11,,,Q56318038,Third Chávez Cabinet,Q111722162,Second Maduro Cabinet,,,,
+,Q111722162,Second Maduro Cabinet,2019-01-10,11,,,,,,,Q55721624,First Maduro Cabinet,,,,,,
