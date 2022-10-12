@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Venezuela",
+        "id": "Q717"
+    },
+    "cabinet": {
+      "id":     "Q111722162",
+      "start":  "2019-01-10",
+      "parent": "Q14252930"
+    },
+    "reference": {
+        "P4656": "https://es.wikipedia.org/wiki/Anexo:Ministerios_del_Poder_Popular_de_Venezuela"
+    },
+    "lang": "es",
+    "current_only": "true",
+    "person_description": {
+        "en": "Venezuelan politician"
+    }
+}
