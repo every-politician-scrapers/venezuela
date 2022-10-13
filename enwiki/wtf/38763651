@@ -1,0 +1,830 @@
+{
+  "title": "Jorge Arreaza",
+  "pageID": 38763651,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Vice presidents of Venezuela",
+    "Central University of Venezuela alumni",
+    "Government ministers of Venezuela",
+    "People of the Crisis in Venezuela",
+    "Politicians from Caracas",
+    "Venezuelan Ministers of Foreign Affairs",
+    "Alumni of the University of Cambridge",
+    "United Socialist Party of Venezuela politicians",
+    "Venezuelan Ministers of Science",
+    "Venezuelan Ministers of Technology"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jorge Alberto Arreaza Montserrat ( Venezuelan ; born 6 June 1973) is a Venezuelan politician who has held several important positions in the administration of President Hugo Chávez and his successor Nicolás Maduro.",
+              "links": [
+                {
+                  "text": "Venezuelan",
+                  "type": "internal",
+                  "page": "Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hugo Chávez"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicolás Maduro"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jorge Alberto Arreaza Montserrat"
+                ]
+              }
+            },
+            {
+              "text": "From August 2017 to August 2021, Arreaza served as Venezuela's Minister of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Venezuela)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Venezuelan politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Arreaza",
+            "Montserrat"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1973",
+          "month": "6",
+          "day": "06",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "ˈxoɾxe alˈβeɾto areˈasa monseˈra(t)",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jorge Arreaza"
+          },
+          "image": {
+            "text": "Jorge Arreaza 01.jpg"
+          },
+          "caption": {
+            "text": "Arreaza in July 2012"
+          },
+          "office": {
+            "text": "Vice President of Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Venezuela"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 April 2013"
+          },
+          "term_end": {
+            "text": "6 January 2016 Acting: 8 March 2013 – 19 April 2013"
+          },
+          "president": {
+            "text": "Nicolás Maduro"
+          },
+          "predecessor": {
+            "text": "Nicolás Maduro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolás Maduro"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Aristóbulo Istúriz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aristóbulo Istúriz"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "List of Ministers of Foreign Affairs of Venezuela"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 August 2017"
+          },
+          "term_end1": {
+            "text": "19 August 2021"
+          },
+          "president1": {
+            "text": "Nicolás Maduro"
+          },
+          "predecessor1": {
+            "text": "Samuel Moncada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samuel Moncada"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Felix Plasencia"
+          },
+          "office2": {
+            "text": "Minister of Higher Education, Science and Technology",
+            "links": [
+              {
+                "text": "Minister of Higher Education, Science and Technology",
+                "type": "internal",
+                "page": "Cabinet of Venezuela"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 January 2016"
+          },
+          "term_end2": {
+            "text": "4 January 2017"
+          },
+          "president2": {
+            "text": "Nicolás Maduro"
+          },
+          "predecessor2": {
+            "text": "Manuel Fernández Meléndez"
+          },
+          "successor2": {
+            "text": "Hugbel Roa"
+          },
+          "office3": {
+            "text": "Minister of Science and Technology"
+          },
+          "term_start3": {
+            "text": "27 November 2011"
+          },
+          "term_end3": {
+            "text": "19 April 2013"
+          },
+          "president3": {
+            "text": "Hugo Chávez Nicolás Maduro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugo Chávez"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Office created"
+          },
+          "successor3": {
+            "text": "Manuel Fernández Meléndez"
+          },
+          "birth_name": {
+            "text": "Jorge Alberto Arreaza Montserrat"
+          },
+          "birth_date": {
+            "text": "June 6, 1973"
+          },
+          "birth_place": {
+            "text": "Caracas, Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Caracas"
+              },
+              {
+                "type": "internal",
+                "page": "Venezuela"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Venezuelan",
+            "links": [
+              {
+                "text": "Venezuelan",
+                "type": "internal",
+                "page": "Venezuela"
+              }
+            ]
+          },
+          "party": {
+            "text": "United Socialist Party of Venezuela (PSUV)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Socialist Party of Venezuela"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Rosa Virginia Chavez Colmenares"
+          },
+          "alma_mater": {
+            "text": "Central University of Venezuela University of Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central University of Venezuela"
+              },
+              {
+                "type": "internal",
+                "page": "University of Cambridge"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education and early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Caracas, Arreaza Montserrat received a degree in international studies from the Central University of Venezuela (UCV) and was awarded a scholarship by the Gran Mariscal de Ayacucho Foundation during the 1990s, which allowed him to earn a master's degree in European Policy Studies at University of Cambridge, England.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Caracas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central University of Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "At UCV, he also worked as a journalist and university teacher, in addition to working as an announcer and interviewer on several public television venues in Venezuela, and as host of the television show Diálogo abierto on Venezolana de Televisión.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Venezolana de Televisión"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Diálogo abierto"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arreaza Montserrat was appointed the vice president of Venezuela and served from 2013 to 2016.",
+              "links": [
+                {
+                  "text": "vice president of Venezuela",
+                  "type": "internal",
+                  "page": "vice president of Venezuela"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Minister of Science and Technology from 2011 to 2013 and also served as President of Fundación Gran Mariscal de Ayacucho (FUNDAYACUCHO) from 2005 until December 2009."
+            },
+            {
+              "text": "He became Chavez's son-in-law in 2007, after marrying Chavez's eldest daughter, Rosa Virginia."
+            },
+            {
+              "text": "Throughout the final stages of Chavez's illness, Arreaza served as unofficial spokesman of the Chavez family."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Arreaza has dismissed the opposition criticisms that the government is using the army to promote an ideology, which is against the 1999 constitution, saying \"the military are Chávez-militants who will guarantee the socialist model in Venezuela\".",
+              "links": [
+                {
+                  "text": "1999 constitution",
+                  "type": "internal",
+                  "page": "Constitution of Venezuela"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 2 August 2017, after the election of the National Constituent Assembly, President Nicolás Maduro appointed Arreaza as head of the Venezuelan Foreign Ministry, with the mission of retaking the leading role of Venezuela in the world.",
+              "links": [
+                {
+                  "text": "election of the National Constituent Assembly",
+                  "type": "internal",
+                  "page": "2017 Venezuelan Constituent Assembly election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicolás Maduro"
+                }
+              ]
+            },
+            {
+              "text": "Arreaza was succeeded as Foreign Minister by Felix Plasencia in August 2021."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Caracas,_II_Cumbre_Extraordinaria_ALBA_-_TCP_-_PETROCARIBE_(11433570816).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Caracas%2C_II_Cumbre_Extraordinaria_ALBA_-_TCP_-_PETROCARIBE_(11433570816).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Caracas%2C_II_Cumbre_Extraordinaria_ALBA_-_TCP_-_PETROCARIBE_(11433570816).jpg",
+          "caption": "Vice President Arreaza with Ecuadorian President Rafael Correa in December 2013",
+          "links": []
+        },
+        {
+          "file": "File:Canciller_Jorge_Arreaza_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Canciller_Jorge_Arreaza_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Canciller_Jorge_Arreaza_(cropped).jpg",
+          "caption": "Arreaza meeting with the diplomatic corps in September 2017",
+          "links": []
+        },
+        {
+          "file": "File:Venezuela’s_Top_Diplomat_Visits_Iran-14.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Venezuela%E2%80%99s_Top_Diplomat_Visits_Iran-14.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Venezuela%E2%80%99s_Top_Diplomat_Visits_Iran-14.jpg",
+          "caption": "Arreaza with Iran's Foreign Minister Mohammad Javad Zarif in April 2018",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2019",
+          "template": "additional citation needed"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.notitarde.com/Pais/Jorge-Arreaza-insiste-en-que-Fanb-es-chavista/2014/05/04/324816",
+          "title": "Arreaza insists that the Venezuelan armed forces are pro-Chávez (Notitarde, in Spanish)",
+          "access-date": "2014-05-05",
+          "archive-url": "https://web.archive.org/web/20140505132103/http://www.notitarde.com/Pais/Jorge-Arreaza-insiste-en-que-Fanb-es-chavista/2014/05/04/324816",
+          "archive-date": "2014-05-05",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Venezuela's president appoints Felix Plasencia as new foreign minister",
+          "url": "https://www.aa.com.tr/en/americas/venezuelas-president-appoints-felix-plasencia-as-new-foreign-minister/2340821",
+          "access-date": "30 January 2022",
+          "work": "Anadolu Agency",
+          "date": "20 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Boon",
+          "first": "Lisseth",
+          "title": "Cinco cosas que no sabía sobre el ministro Jorge Arreaza (Five things you did not know about the minister Jorge Arreaza)",
+          "url": "http://www.elmundo.com.ve/noticias/economia/politicas-publicas/cinco-cosas-que-no-sabia-sobre-el-ministro-jorge-a.aspx",
+          "access-date": "10 March 2013",
+          "date": "12 July 2011",
+          "archive-url": "https://web.archive.org/web/20120506082514/http://www.elmundo.com.ve/noticias/economia/politicas-publicas/cinco-cosas-que-no-sabia-sobre-el-ministro-jorge-a.aspx",
+          "archive-date": "6 May 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Noticias 24 Venezuela",
+          "title": "Perfil de Jorge Arreaza, designado nuevo Vicepresidente de la República (Profile of Jorge Arreaza, appointed new Vice President)",
+          "url": "http://www.noticias24.com/venezuela/noticia/155090/jorge-arreaza-el-yerno-de-chavez-es-ahora-el-vicepresidente-de-la-republica/",
+          "access-date": "10 March 2013",
+          "date": "8 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Lozano",
+          "first": "Daniel",
+          "title": "Jorge Arreaza: Yerno de Chávez y hombre emergente en el chavismo",
+          "url": "http://noticias.univision.com/america-latina/venezuela/hugo-chavez/noticias/article/2013-01-13/jorge-arreaza-super-yerno-chavez-emergente-chavismo#axzz2N6KdCbUX",
+          "publisher": "Univision.com",
+          "access-date": "10 March 2013",
+          "author2": "James G. Garcia",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Sanctions",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "International sanctions during the Venezuelan crisis"
+          ],
+          "template": "further"
+        }
+      ]
+    },
+    {
+      "title": "Canada",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 15 April 2019, Canada announced that sanctions on 43 individuals were applied on 12 April based on the Special Economic Measures Act.",
+              "formatting": {
+                "italic": [
+                  "Special Economic Measures Act"
+                ]
+              }
+            },
+            {
+              "text": "The government statement said \"the sanctions hit high ranking officials of the Maduro regime, regional governors, and people directly implicated in activities undermining democratic institutions\"."
+            },
+            {
+              "text": "Foreign Minister Chrystia Freeland stated, \"The Maduro dictatorship must be held accountable for this crisis and depriving Venezuelans of their most basic rights and needs. Canada is committed to supporting the peaceful restoration of constitutional democracy in Venezuela.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chrystia Freeland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The newly sanctioned Venezuelans included Arreaza."
+            },
+            {
+              "text": "In response, his ministry has accused Canada of supporting Trump's \"war adventure\" and said that Prime Minister Justin Trudeau \"has invalidated Canada as a reliable actor in dialogue.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justin Trudeau"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.cbc.ca/news/politics/venezuela-sanctions-canada-1.5098288",
+          "work": "CBC Canada",
+          "date": "15 April 2019",
+          "access-date": "15 April 2019",
+          "title": "Canada expands Venezuela sanctions, adds 43 people close to Maduro",
+          "publisher": "Thomson Reuters",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.yahoo.com/news/venezuela-accuses-canada-supporting-trumps-war-adventure-231455067.html",
+          "title": "Venezuela accuses Canada of supporting Trump's 'war adventure'",
+          "date": "16 April 2019",
+          "work": "Yahoo News",
+          "access-date": "12 January 2020",
+          "agency": "Agence France-Presse",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/venezuela_regulations-reglement_venezuela.aspx?lang=eng",
+          "publisher": "Government of Canada",
+          "title": "Regulations Amending the Special Economic Measures (Venezuela) Regulations",
+          "date": "12 April 2019",
+          "access-date": "15 April 2019 }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "United States",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The United States sanctioned Arreaza along with Judge Carol Bealexis Padilla de Arretureta on 26 April 2019 as they were determined to be current or former officials of the Government of Venezuela."
+            },
+            {
+              "text": "Both were accused of exploiting the U.S. financial system to support the “illegitimate” regime of Nicolas Maduro.",
+              "links": [
+                {
+                  "text": "Nicolas Maduro",
+                  "type": "internal",
+                  "page": "Nicolás Maduro"
+                }
+              ]
+            },
+            {
+              "text": "The U.S. Department of State issued a statement describing Arreaza as being \"at the forefront\" of the Maduro administration attempts \"to thwart the democratic aspirations of the Venezuelan people.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours later, Arreaza responded that the sanctions \"gives us more strength for the struggle.\""
+            },
+            {
+              "text": "He further elaborated saying that \"Yesterday, we denounced the US criminal blockade against Venezuela at the UN. Today, the Trump administration responds with desperation against us. TRUTH hurts!\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "According to US ambassador to the OAS Carlos Trujillo, Arreaza could face financial difficulties when trying to make transactions with the Maduro government through the US financial system, as well as visa difficulties due to the sanctions.",
+              "links": [
+                {
+                  "text": "OAS",
+                  "type": "internal",
+                  "page": "Organization of American States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carlos Trujillo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bloomberg.com/news/articles/2019-04-26/treasury-sanctions-venezuela-foreign-minister-arreaza",
+          "title": "U.S. Treasury Sanctions Venezuela's Top Diplomat Arreaza",
+          "last": "Mohsin",
+          "first": "Saleha",
+          "date": "26 April 2019",
+          "work": "Bloomberg",
+          "access-date": "26 April 2019",
+          "last2": "Rosati",
+          "first2": "Andrew",
+          "quote": "The Treasury Department sanctioned Venezuela’s foreign minister for allegedly exploiting the U.S. financial system to support what it considers the “illegitimate” regime of Nicolas Maduro.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.state.gov/r/pa/prs/ps/2019/04/291368.htm",
+          "publisher": "U.S. Department of State",
+          "access-date": "28 April 2019",
+          "date": "26 April 2019",
+          "title": "The United States sanctions Maduro-aligned individuals",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "user": "jaarreaza",
+          "author": "Arreaza, Jorge",
+          "number": "1121810908295172097",
+          "date": "26 April 2019",
+          "title": "Some reactions confirm that we walk the right path. It gives us more STRENGTH for the struggle. Yesterday, we denounced the US criminal blockade against Venezuela at the UN. Today, the Trump administration responds with desperation against us. TRUTH hurts!.",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "url": "https://noticierouniversal.com/venezuela/carlos-trujillo-arreaza-tendra-problemas-con-la-visa-y-con-las-transacciones/",
+          "title": "Carlos Trujillo: \"Arreaza will have problems with the visa and transactions\"",
+          "date": "26 April 2019",
+          "work": "Noticerio Digital",
+          "access-date": "26 April 2019",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "user": "carlaangola",
+          "author": "Carla Angola",
+          "number": "1121818318216802310",
+          "date": "26 April 2019",
+          "title": "Arreaza limited for your business, transactions, use of goods and visa. Ambassador Trujillo told us about the US sanction against Arreaza, the chancellor of Maduro.",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "tweet"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of Ministers of Foreign Affairs of Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Ministers of Foreign Affairs of Venezuela"
+              }
+            ]
+          },
+          {
+            "text": "List of current foreign ministers",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of current foreign ministers"
+              }
+            ]
+          },
+          {
+            "text": "List of foreign ministers in 2017, 2018, 2019, 2020 and 2021",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of foreign ministers in 2017"
+              },
+              {
+                "text": "2018",
+                "type": "internal",
+                "page": "List of foreign ministers in 2018"
+              },
+              {
+                "text": "2019",
+                "type": "internal",
+                "page": "List of foreign ministers in 2019"
+              },
+              {
+                "text": "2020",
+                "type": "internal",
+                "page": "List of foreign ministers in 2020"
+              },
+              {
+                "text": "2021",
+                "type": "internal",
+                "page": "List of foreign ministers in 2021"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Jorge Arreaza"
+          ],
+          "template": "commons category"
+        }
+      ]
+    },
+    {
+      "title": "Twitter",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "template": "s-new"
+        },
+        {
+          "title": "Minister of Science and Technology",
+          "years": "2011–2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Manuel Fernández Meléndez",
+          "template": "s-aft"
+        },
+        {
+          "before": "Manuel Fernández Meléndez",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Higher Education, Science and Technology",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hugbel Roa",
+          "template": "s-aft"
+        },
+        {
+          "before": "Nicolás Maduro",
+          "template": "s-bef"
+        },
+        {
+          "title": "Vice President of Venezuela",
+          "years": "2013–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Aristóbulo Istúriz",
+          "template": "s-aft"
+        },
+        {
+          "before": "Samuel Moncada",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Foreign Affairs",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Felix Plasencia",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Twitter - Jorge Arreaza M (@jaarreaza)",
+            "links": [
+              {
+                "text": "Twitter - Jorge Arreaza M (@jaarreaza)",
+                "type": "external",
+                "site": "https://twitter.com/jaarreaza"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

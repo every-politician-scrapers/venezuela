@@ -1,0 +1,71 @@
+{
+  "title": "Gabriela Jiménez Ramírez",
+  "pageID": 71632188,
+  "categories": [
+    "Living people",
+    "1976 births",
+    "21st-century Venezuelan politicians",
+    "21st-century Venezuelan women politicians",
+    "Women government ministers of Venezuela",
+    "Venezuelan biologists",
+    "Venezuelan women scientists",
+    "Venezuelan Ministers of Science",
+    "Venezuelan Ministers of Technology"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gabriela Servilia Jiménez Ramirez (born 19 August 1976) is a Venezuelan biologist and politician.",
+              "formatting": {
+                "bold": [
+                  "Gabriela Servilia Jiménez Ramirez"
+                ]
+              }
+            },
+            {
+              "text": "She has been the Minister of Science and Technology since 6 June 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Venezuelan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "Poderopedia",
+          "title": "Gabriela Jiménez Ramírez",
+          "url": "https://poderopediave.org/persona/gabriela-jimenez-ramirez/",
+          "access-date": "2022-08-30",
+          "website": "Poderopedia Venezuela",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "venezuela-politician-stub"
+        }
+      ]
+    }
+  ]
+}
