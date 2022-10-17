@@ -1306,6 +1306,9 @@
       ],
       "templates": [
         {
+          "template": "commons category"
+        },
+        {
           "template": "s-start"
         },
         {

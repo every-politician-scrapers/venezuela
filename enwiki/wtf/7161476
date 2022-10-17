@@ -824,7 +824,7 @@
       ]
     },
     {
-      "title": "Personal life",
+      "title": "Early and Personal life",
       "depth": 0,
       "paragraphs": [
         {
@@ -1586,8 +1586,8 @@
       ]
     },
     {
-      "title": "Foreign minister",
-      "depth": 1,
+      "title": "Foreign minister of Venezuela",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -2045,7 +2045,7 @@
     },
     {
       "title": "Vice President of Venezuela",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -7696,13 +7696,13 @@
       ]
     },
     {
-      "title": "Awards",
+      "title": "Awards and honours",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Revoked and returned distinctions are marked with red."
+              "text": "Revoked and returned distinctions."
             }
           ]
         }
@@ -7994,6 +7994,14 @@
             }
           }
         ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "#f99"
+          ],
+          "template": "colorbox"
+        }
       ],
       "references": [
         {
@@ -8748,13 +8756,21 @@
       ],
       "templates": [
         {
-          "list": [
-            "Nicolás Maduro"
-          ],
-          "template": "commons category"
-        },
-        {
-          "template": "wikiquote"
+          "template": "sister project links",
+          "links": {
+            "wiktionary": "no",
+            "commons": "Category:Nicolás Maduro",
+            "wikinews": "no",
+            "wikiquote": "yes",
+            "wikisource": "no",
+            "wikibooks": "no",
+            "wikivoyage": "no",
+            "wikiversity": "no",
+            "wikidata": "yes",
+            "wikispecies": "no",
+            "meta": "no",
+            "mediawiki": "no"
+          }
         },
         {
           "list": [
