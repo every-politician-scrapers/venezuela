@@ -402,7 +402,12 @@
                   "type": "internal",
                   "page": "Tal Cual"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Tal Cual"
+                ]
+              }
             }
           ]
         },
@@ -444,7 +449,7 @@
           "file": "File:Secretary_Kerry_Shakes_Hands_With_Venezuelan_Foreign_Minister_Rodriguez_Before_Their_Meeting_in_Santo_Domingo_(27571633682).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Kerry_Shakes_Hands_With_Venezuelan_Foreign_Minister_Rodriguez_Before_Their_Meeting_in_Santo_Domingo_(27571633682).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Kerry_Shakes_Hands_With_Venezuelan_Foreign_Minister_Rodriguez_Before_Their_Meeting_in_Santo_Domingo_(27571633682).jpg",
-          "caption": "Former Secretary John Kerry Shakes Hands With Venezuelan Foreign Minister Rodriguez Before Their Meeting in Santo Domingo",
+          "caption": "Rodriguez shaking hands with former United States Secretary of State John Kerry",
           "links": []
         }
       ],
