@@ -136,13 +136,7 @@
         {
           "sentences": [
             {
-              "text": "He has received formal recognition of legitimacy from almost 60 governments worldwide, including the United States, Canada and various Latin American and European countries."
-            },
-            {
-              "text": "Other nations, including Russia, China, Iran, Syria, Cuba and Turkey have continued to recognize Maduro."
-            },
-            {
-              "text": "On 6 January 2021 the European Union stopped recognizing Guaidó as president, without recognizing Maduro as the legitimate president, and threatening further sanctions.",
+              "text": "Although at one point Guaidó received formal recognition of legitimacy from almost 60 governments worldwide, including the United States, Canada and various Latin American and European countries, on 6 January 2021 the European Union stopped recognizing Guaidó as president, without recognizing Maduro as the legitimate president, and threatening further sanctions.",
               "links": [
                 {
                   "type": "internal",
@@ -154,6 +148,9 @@
                   "page": "International sanctions during the Venezuelan crisis"
                 }
               ]
+            },
+            {
+              "text": "Other nations, including Russia, China, Iran, Syria, Cuba and Turkey rejected his claim to the Presidency and continue to recognize Maduro as the legitimate President."
             },
             {
               "text": "Guaidó had not been able to remove Maduro from power; Maduro remained in control of the military, government institutions, and state enterprises."
