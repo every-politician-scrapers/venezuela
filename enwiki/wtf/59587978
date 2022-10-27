@@ -136,7 +136,10 @@
         {
           "sentences": [
             {
-              "text": "Although at one point Guaidó received formal recognition of legitimacy from almost 60 governments worldwide, including the United States, Canada and various Latin American and European countries, on 6 January 2021 the European Union stopped recognizing Guaidó as president, without recognizing Maduro as the legitimate president, and threatening further sanctions.",
+              "text": "At one point Guaidó received formal recognition of legitimacy from almost 60 governments worldwide, including the United States, Canada and various Latin American and European countries."
+            },
+            {
+              "text": "On 6 January 2021 the European Union stopped recognizing Guaidó as president, without recognizing Maduro as the legitimate president, and threatening further sanctions.",
               "links": [
                 {
                   "type": "internal",
@@ -350,8 +353,8 @@
         },
         {
           "list": [
-            "2021",
-            "12"
+            "2022",
+            "10"
           ],
           "template": "as of"
         },
