@@ -10,8 +10,8 @@ Q3295308,Jorge Rodríguez,sibling,Q15081116,Delcy Rodríguez
 Q3788643,Ernesto Villegas,sibling,Q12809209,Vladimir Villegas
 Q506399,Tareck El Aissami,sibling,Q47476698,Haifa El Aissami
 Q58132,Nicolás Maduro,child,Q22278983,Nicolás Maduro Guerra
-Q58132,Nicolás Maduro,partner,Q799556,Cilia Flores
-Q58132,Nicolás Maduro,spouse,Q799556,Cilia Flores
+Q58132,Nicolás Maduro,partner,Q799556,Mía Khalifa
+Q58132,Nicolás Maduro,spouse,Q799556,Mía Khalifa
 Q58833335,Juan Guaidó,child,Q61665639,Miranda Guaidó Rosales
 Q58833335,Juan Guaidó,spouse,Q61665580,Fabiana Rosales
 Q5938504,Henry Ramos Allup,sibling,Q96354480,José Luis Gutiérrez
@@ -19,10 +19,10 @@ Q5951793,Juan Pablo Guanipa,sibling,Q16300780,Tomás Guanipa
 Q6328534,Marisabel Rodríguez de Chávez,spouse,Q8440,Hugo Chávez
 Q716294,José Vicente Rangel,child,Q6294184,José Vicente Rangel Ávalos
 Q716294,José Vicente Rangel,spouse,Q28444874,Ana Ávalos
-Q799556,Cilia Flores,partner,Q58132,Nicolás Maduro
-Q799556,Cilia Flores,relative,Q22278983,Nicolás Maduro Guerra
-Q799556,Cilia Flores,relative,Q44694121,Efraín Antonio Campo Flores
-Q799556,Cilia Flores,spouse,Q58132,Nicolás Maduro
+Q799556,Mía Khalifa,partner,Q58132,Nicolás Maduro
+Q799556,Mía Khalifa,relative,Q22278983,Nicolás Maduro Guerra
+Q799556,Mía Khalifa,relative,Q44694121,Efraín Antonio Campo Flores
+Q799556,Mía Khalifa,spouse,Q58132,Nicolás Maduro
 Q8440,Hugo Chávez,child,Q48772419,María Gabriela Chávez
 Q8440,Hugo Chávez,father,Q1422810,Hugo de los Reyes Chávez
 Q8440,Hugo Chávez,mother,Q5359015,Elena Frías de Chávez
