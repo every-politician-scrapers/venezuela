@@ -193,10 +193,7 @@
               ]
             },
             {
-              "text": "On 20 May 2018, Presidential elections were called;"
-            },
-            {
-              "text": "President Maduro was sworn in on 10 January 2019 with widespread condemnation, and the president of the National Assembly, Guaidó, was declared interim president on 23 January 2019 by the legislative body.",
+              "text": "On 20 May 2018, Presidential elections were called; President Maduro was sworn in on 10 January 2019 with widespread condemnation, and the president of the National Assembly, Guaidó, was declared interim president on 23 January 2019 by the legislative body.",
               "links": [
                 {
                   "text": "was sworn in",
@@ -220,7 +217,14 @@
         {
           "sentences": [
             {
-              "text": "Maduro has been accused of authoritarian leadership since he took office in 2013."
+              "text": "Maduro has been described as an autocrat and a \"dictator\".",
+              "links": [
+                {
+                  "text": "autocrat",
+                  "type": "internal",
+                  "page": "Autocracy"
+                }
+              ]
             },
             {
               "text": "Between 2013 and 2022, Venezuela dropped 42 places in the Press Freedom Index.",
@@ -311,6 +315,12 @@
         {
           "list": [
             "The original electoral date was December 2018 but was pulled ahead to 22 April and then pushed back to 20 May."
+          ],
+          "template": "efn"
+        },
+        {
+          "list": [
+            "See Nicolás Maduro section of this article for full discussion and sources."
           ],
           "template": "efn"
         }
@@ -706,6 +716,12 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "Venezuela's Future in Balance",
