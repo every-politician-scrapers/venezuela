@@ -270,10 +270,10 @@
         {
           "sentences": [
             {
-              "text": "Villegas graduated journalist from Central University of Venezuela."
+              "text": "Villegas graduated as a journalist from Central University of Venezuela."
             },
             {
-              "text": "He worked in media such as newspapers Economía Hoy, El Nuevo País, El Universal and Quinto Día, two and programs En Confianza, Despertó Venezuela and Toda Venezuela of Venezolana de Televisión.",
+              "text": "He had worked in media such as newspapers Economía Hoy, El Nuevo País, El Universal and Quinto Día, En Confianza, Despertó Venezuela and Toda Venezuela of Venezolana de Televisión.",
               "links": [
                 {
                   "text": "El Universal",
@@ -297,7 +297,7 @@
               }
             },
             {
-              "text": "He was editor of the newspaper Ciudad Caracas.",
+              "text": "He was the editor of the newspaper Ciudad Caracas.",
               "formatting": {
                 "italic": [
                   "Ciudad Caracas"
@@ -318,10 +318,10 @@
               ]
             },
             {
-              "text": "Later, he is appointed Minister of State for the Revolutionary Transformation of Greater Caracas since December 2013."
+              "text": "Later, he was appointed as Minister of State for the Revolutionary Transformation of Greater Caracas since December 2013."
             },
             {
-              "text": "From October 2014 to May 2015, he was Head of Government of the Venezuelan Capital District."
+              "text": "From October 2014 to May 2015, he was the Head of Government for the Venezuelan Capital District."
             }
           ]
         }
