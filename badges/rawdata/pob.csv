@@ -1,0 +1,91 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q106465359,Gladys Guaipo,,,,,,false,,,,
+Q106975980,Gabriela Jiménez,,,,,,false,,,,
+Q107030818,Hipólito Abreu,,,,,,false,,,,
+Q108287837,Félix Ramón Plasencia,,,,,,false,,,,
+Q108548921,José Rodríguez Iturbe,,,,,,false,,,,
+Q108548923,Jesús Pérez,,,,,,false,,,,
+Q109017878,Carlos Leal,NormalRank,Q1533,Caracas,true,true,true,false,false,true,true
+Q109040910,Juan Luis Laya,,,,,,false,,,,
+Q109044864,Mervin Maldonado,,,,,,false,,,,
+Q109671346,Dheliz Álvarez,,,,,,false,,,,
+Q110983518,Olga Luisa Figueroa,,,,,,false,,,,
+Q110992142,Diva Guzmán,,,,,,false,,,,
+Q111208069,Clara Vidal,,,,,,false,,,,
+Q111209612,José Gregorio Biomorgi,,,,,,false,,,,
+Q112725863,Rodulfo Pérez,,,,,,false,,,,
+Q113090321,Juan Carlos Loyo,,,,,,false,,,,
+Q113548777,Carlos Faria,,,,,,false,,,,
+Q114605662,Raúl Alfonso Paredes,,,,,,false,,,,
+Q114606662,Alí Padrón Paredes,,,,,,false,,,,
+Q114606663,Greicys Dayamni Barrios,,,,,,false,,,,
+Q114606664,Ildemaro Moisés Villarroel Arismendi,,,,,,false,,,,
+Q114606665,Josué Alejandro Lorca,,,,,,false,,,,
+Q114606666,Magaly Gutiérrez Viña,,,,,,false,,,,
+Q114606668,Mirelys Contreras,,,,,,false,,,,
+Q1185484,Ramón Carrizales,NormalRank,Q147782,Zaraza,true,true,true,false,false,false,true
+Q12162046,Dante Rivas,NormalRank,Q204876,Nueva Esparta,true,true,true,false,false,false,true
+Q1227076,Diosdado Cabello,NormalRank,Q3300002,Maturín,true,true,true,false,false,false,true
+Q1334512,Elías Jaua,NormalRank,Q1028164,Caucagua,true,true,true,false,true,false,true
+Q15081116,Delcy Rodríguez,NormalRank,Q1533,Caracas,true,true,false,,,,
+Q16106233,Luis Alfonso Dávila,,,,,,false,,,,
+Q16301804,Rodolfo Marco Torres,NormalRank,Q190687,Aragua,true,true,true,false,false,true,true
+Q18419737,Liris Sol Velásquez,,,,,,false,,,,
+Q19519696,Vladimir Padrino López,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q2127006,Rafael Ramírez,NormalRank,Q11697496,Pampán,true,true,true,false,false,false,true
+Q21683673,Nora Delgado,NormalRank,Q6138804,Tapipa,true,true,false,,,,
+Q22074514,Óscar Figuera,PreferredRank,Q179007,Tucupita,true,true,true,false,false,false,true
+Q22133019,Freddy Ñáñez,NormalRank,Q983946,Petare,true,true,true,false,false,true,true
+Q28005738,José Manuel Olivares,NormalRank,Q1677956,Maiquetía,true,true,false,,,,
+Q28503440,Francisco Torrealba,NormalRank,Q205784,Portuguesa,true,true,true,false,false,true,true
+Q28503444,Ramón Celestino Velázquez,NormalRank,Q205776,Monagas,true,true,true,false,false,false,true
+Q2855363,Alí Rodríguez Araque,NormalRank,Q641706,Ejido,true,true,true,false,false,false,true
+Q295790,Carlos Andrés Pérez,NormalRank,Q1002638,Rubio,true,true,true,false,false,false,true
+Q30505969,Samuel Moncada,NormalRank,Q1533,Caracas,true,true,true,false,true,false,false
+Q3157719,Jacqueline Faría,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q3237890,Liborio Guarulla,NormalRank,Q2673918,Maroa,true,true,true,false,false,false,true
+Q3295308,Jorge Rodríguez,NormalRank,Q4709,Barquisimeto,true,true,false,,,,
+Q3438429,Omar Barboza,NormalRank,Q171632,Maracaibo,true,true,true,false,false,false,true
+Q37793283,Juán Arias,NormalRank,Q1308292,Valle de La Pascua,true,true,true,false,false,false,true
+Q3788643,Ernesto Villegas,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q42210554,Laidy Gómez,NormalRank,Q1002638,Rubio,true,true,true,false,false,false,true
+Q43287460,Milos Alcalay,,,,,,false,,,,
+Q439564,María Corina Machado,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q466806,Willian Lara,NormalRank,Q3050250,El Socorro,true,true,true,false,false,false,true
+Q4682878,Adina Bastidas,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q4791112,Aristóbulo Iztúriz,NormalRank,Q605034,Curiepe,true,true,true,false,false,false,true
+Q506399,Tareck El Aissami,NormalRank,Q2124390,Alberto Adriani,true,true,false,,,,
+Q5483151,Francisco Arias Cárdenas,NormalRank,Q820235,San Cristóbal,true,true,true,false,false,false,true
+Q5576708,Ramón Martínez,NormalRank,Q153511,Carúpano,true,true,true,false,false,false,true
+Q55948349,Víctor Clark,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q5839772,Fernando Soto Rojas,NormalRank,Q433758,Altagracia de Orituco,true,true,true,false,false,false,true
+Q5865064,Francisco Ameliach,NormalRank,Q54880,Valencia,true,true,true,false,false,false,true
+Q58833335,Juan Guaidó,NormalRank,Q873405,La Guaira,true,true,false,,,,
+Q5894576,Henry Ramos Allup,NormalRank,Q54880,Valencia,true,true,true,false,false,false,true
+Q5898619,Hiran Gaviria,NormalRank,Q10319806,Los Puertos de Altagracia,true,true,true,false,false,true,true
+Q5938504,Henry Ramos Allup,NormalRank,Q1290928,Caicara del Orinoco,true,true,true,false,false,false,true
+Q5951793,Juan Pablo Guanipa,NormalRank,Q171632,Maracaibo,true,true,true,false,false,true,true
+Q60012352,Edgar Zambrano,NormalRank,Q4709,Barquisimeto,true,true,false,,,,
+Q6044372,Noelí Pocaterra,NormalRank,Q2593210,Guajira,true,true,true,false,false,false,true
+Q6047488,Néstor Reverol,NormalRank,Q171632,Maracaibo,true,true,true,false,false,false,true
+Q6108259,Ricardo José Menéndez Prieto,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q6146383,Tibisay Lucena,NormalRank,Q4709,Barquisimeto,true,true,true,false,false,false,true
+Q6167867,Wilmar Castro Soteldo,NormalRank,Q205784,Portuguesa,true,true,true,false,false,false,true
+Q6169921,Yelitze Santaella,NormalRank,Q179007,Tucupita,true,true,true,false,false,false,true
+Q6278714,Jorge Valero,NormalRank,Q1010367,Valera,true,true,true,false,false,false,true
+Q6310283,Julián Isaías Rodríguez Diaz,NormalRank,Q202075,Guárico,true,true,true,false,false,false,true
+Q6328534,Marisabel Rodríguez de Chávez,NormalRank,Q4709,Barquisimeto,true,true,true,false,false,false,true
+Q6623799,Jorge Arreaza,NormalRank,Q1533,Caracas,true,true,false,,,,
+Q716294,José Vicente Rangel,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q7372656,Roy Chaderton,,,,,,false,,,,
+Q77361480,José Brito,NormalRank,Q190922,Anzoátegui,true,true,false,,,,
+Q77892039,Jorge Márquez,NormalRank,Q1533,Caracas,true,true,true,false,false,true,true
+Q799556,Cilia Flores,NormalRank,Q1517139,Tinaquillo,true,true,true,false,false,false,true
+Q81101807,Luis Parra,NormalRank,Q201121,Yaracuy,true,true,true,false,false,false,true
+Q85383854,Remigio Ceballos,NormalRank,Q1533,Caracas,true,true,true,false,false,true,true
+Q878705,Pedro Carmona,NormalRank,Q4709,Barquisimeto,true,true,true,false,false,false,true
+Q951338,Julio Borges,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q98280254,William Serantes Pinto,NormalRank,Q2725457,Catia La Mar,true,true,true,false,true,false,false
+Q98446275,Romel Guzamana,NormalRank,Q372920,Puerto Ayacucho,true,true,false,,,,
+Q58132,Nicolás Maduro,NormalRank,Q1533,Caracas,true,true,true,false,false,false,true
+Q8440,Hugo Chávez,NormalRank,Q728412,Sabaneta,true,true,true,false,false,false,true
