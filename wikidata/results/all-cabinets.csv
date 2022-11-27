@@ -1,21 +1,21 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q23922115,Q23922115,,,,,,,,,,,,,,,,
-,Q23922090,Q23922090,1887-01-01,9,,,1888-01-01,9,,,,,,,,,,
-,Q23922092,Q23922092,1899-01-01,9,,,1908-01-01,9,,,,,,,,,,
-,Q23922095,Q23922095,1935-01-01,9,,,1941-01-01,9,,,,,,,,,,
-,Q23922097,Q23922097,1941-01-01,9,,,1945-01-01,9,,,,,,,,,,
-,Q23922103,Q23922103,1945-01-01,9,,,1964-01-01,9,,,,,,,,,,
-,Q23922073,Q23922073,1948-02-01,10,,,1948-11-01,10,,,,,,,,,,
-,Q23922100,Q23922100,1952-01-01,9,,,1958-01-01,9,,,,,,,,,,
-,Q23922076,Q23922076,1964-01-01,9,,,1969-01-01,9,,,,,,,,,,
-,Q23922078,Q23922078,1969-01-01,9,,,1974-01-01,9,,,,,,,,,,
-,Q23922082,Q23922082,1974-01-01,9,,,1979-01-01,9,,,,,,,,,,
-,Q23922105,Q23922105,1979-01-01,9,,,,,,,,,,,,,,
-,Q23922108,Q23922108,1984-01-01,9,,,,,,,,,,,,,,
-,Q23922112,Q23922112,1993-01-01,9,,,1994-01-01,9,,,,,,,,,,
-,Q6085493,First Chávez Cabinet,1999-02-02,11,,,,,,,,,,,,,Q6085496,Second Chávez Cabinet
-,Q8911,Cabinet of Hugo Chávez,1999-02-02,11,,,,,,,,,,,,,,
-,Q6085496,Second Chávez Cabinet,2001-01-10,11,,,,,,,,,,,Q6085493,First Chávez Cabinet,Q56318038,Third Chávez Cabinet
-,Q56318038,Third Chávez Cabinet,2007-01-10,11,,,2013-03-04,11,,,,,Q55721624,First Maduro Cabinet,Q6085496,Second Chávez Cabinet,Q55721624,First Maduro Cabinet
-,Q55721624,First Maduro Cabinet,2013-03-05,11,,,2019-01-10,11,,,Q56318038,Third Chávez Cabinet,Q111722162,Second Maduro Cabinet,,,,
-,Q111722162,Second Maduro Cabinet,2019-01-10,11,,,,,,,Q55721624,First Maduro Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,abolished,abolishedPrecision,replaces,replacesLabel,replacedBy,replacedByLabel
+,Q23922115,Q23922115,,,,,,,,
+,Q23922090,Q23922090,1887-01-01,9,1888-01-01,9,,,,
+,Q23922092,Q23922092,1899-01-01,9,1908-01-01,9,,,,
+,Q23922095,Q23922095,1935-01-01,9,1941-01-01,9,,,,
+,Q23922097,Q23922097,1941-01-01,9,1945-01-01,9,,,,
+,Q23922103,Q23922103,1945-01-01,9,1964-01-01,9,,,,
+,Q23922073,Q23922073,1948-02-01,10,1948-11-01,10,,,,
+,Q23922100,Q23922100,1952-01-01,9,1958-01-01,9,,,,
+,Q23922076,Q23922076,1964-01-01,9,1969-01-01,9,,,,
+,Q23922078,Q23922078,1969-01-01,9,1974-01-01,9,,,,
+,Q23922082,Q23922082,1974-01-01,9,1979-01-01,9,,,,
+,Q23922105,Q23922105,1979-01-01,9,,,,,,
+,Q23922108,Q23922108,1984-01-01,9,,,,,,
+,Q23922112,Q23922112,1993-01-01,9,1994-01-01,9,,,,
+,Q6085493,First Chávez Cabinet,1999-02-02,11,,,,,Q6085496,Second Chávez Cabinet
+,Q8911,Cabinet of Hugo Chávez,1999-02-02,11,,,,,,
+,Q6085496,Second Chávez Cabinet,2001-01-10,11,,,Q6085493,First Chávez Cabinet,Q56318038,Third Chávez Cabinet
+,Q56318038,Third Chávez Cabinet,2007-01-10,11,2013-03-04,11,Q6085496,Second Chávez Cabinet,Q55721624,First Maduro Cabinet
+,Q55721624,First Maduro Cabinet,2013-03-05,11,2019-01-10,11,Q56318038,Third Chávez Cabinet,Q111722162,Second Maduro Cabinet
+,Q111722162,Second Maduro Cabinet,2019-01-10,11,,,Q55721624,First Maduro Cabinet,,
