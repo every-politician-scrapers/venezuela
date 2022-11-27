@@ -597,14 +597,14 @@
             "text": "November 23, 1962"
           },
           "birth_place": {
-            "text": "Caracas, Venezuela",
+            "text": "Caracas, Fourth Republic of Venezuela",
             "links": [
               {
                 "type": "internal",
                 "page": "Caracas"
               },
               {
-                "text": "Venezuela",
+                "text": "Fourth Republic of Venezuela",
                 "type": "internal",
                 "page": "Republic of Venezuela"
               }

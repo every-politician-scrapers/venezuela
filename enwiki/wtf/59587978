@@ -479,7 +479,7 @@
             "text": "July 28, 1983"
           },
           "birth_place": {
-            "text": "La Guaira, Venezuela",
+            "text": "La Guaira, Republic of Venezuela",
             "links": [
               {
                 "type": "internal",
@@ -487,7 +487,7 @@
               },
               {
                 "type": "internal",
-                "page": "Venezuela"
+                "page": "Republic of Venezuela"
               }
             ]
           },
