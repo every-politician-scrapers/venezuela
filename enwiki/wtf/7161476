@@ -67,6 +67,11 @@
               "text": "Beginning his working life as a bus driver, Maduro rose to become a trade union leader before being elected to the National Assembly in 2000.",
               "links": [
                 {
+                  "text": "trade union",
+                  "type": "internal",
+                  "page": "trade union"
+                },
+                {
                   "text": "National Assembly",
                   "type": "internal",
                   "page": "National Assembly (Venezuela)"
@@ -211,6 +216,16 @@
                   "page": "2019 Venezuelan uprising attempt"
                 }
               ]
+            },
+            {
+              "text": "Since the 2022 Russian invasion of Ukraine, Maduro has been reapproached on the international stage due to global energy concerns.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
             }
           ]
         },
@@ -236,7 +251,7 @@
               ]
             },
             {
-              "text": "In 2018, a Board of Independent Experts designated by the anti-Marxist Organization of American States (OAS) found that crimes against humanity have been committed in Venezuela during Maduro's presidency.",
+              "text": "In 2018, a Board of Independent Experts designated by the Organization of American States (OAS) found that crimes against humanity have been committed in Venezuela during Maduro's presidency.",
               "links": [
                 {
                   "type": "internal",
@@ -827,6 +842,16 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2022-11-17",
+          "title": "‘Asking an arsonist to put out a fire’: climate offender Maduro makes Cop27 comeback",
+          "url": "https://www.theguardian.com/environment/2022/nov/17/nicolas-maduro-cop27-climate-offender-venezuela",
+          "access-date": "2022-12-01",
+          "website": "The Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "RSF 2013",
@@ -2683,6 +2708,45 @@
             },
             {
               "text": "Due to the raised oil prices resulting from the conflict, conversations have begun between Maduro and US officials, suggesting the possibility of lifting of US sanctions on Venezuela and improved relations between the two countries."
+            },
+            {
+              "text": "During the 2022 United Nations Climate Change Conference in November, multiple world leaders were seen interacting with Maduro, including President of France Emmanuel Macron, Prime Minister of Portugal António Costa and American John Kerry, with President Macron addressing Maduro as \"president\" and stating \"I would be happy if we could talk to each other for longer to engage in useful bilateral work for the region.\"",
+              "links": [
+                {
+                  "text": "2022 United Nations Climate Change Conference",
+                  "type": "internal",
+                  "page": "2022 United Nations Climate Change Conference"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of France"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "António Costa"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Kerry"
+                }
+              ]
+            },
+            {
+              "text": "Days later on 27 November, the United States eased sanctions on Venezuela and allowed Chevron Corporation to temporarily work with the Venezuelan government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chevron Corporation"
+                }
+              ]
             }
           ]
         }
@@ -2997,6 +3061,26 @@
           "access-date": "2022-03-10",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2022-11-08",
+          "title": "Macron accused of 'U-turn' over Maduro encounter",
+          "url": "https://www.france24.com/en/live-news/20221108-macron-accused-of-u-turn-over-maduro-encounter",
+          "access-date": "2022-12-01",
+          "website": "France 24",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-11-27",
+          "title": "Experts react: As the US eases oil sanctions, is Venezuela coming in from the cold?",
+          "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/us-eases-oil-sanctions-venezuela-chevron-maduro/",
+          "access-date": "2022-12-01",
+          "website": "Atlantic Council",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last1": "Corrales",
