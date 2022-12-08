@@ -305,7 +305,7 @@
         {
           "sentences": [
             {
-              "text": "All ministries and government institutions are subordinated to the National Command of the Great Mission for Safe Sovereign and Safe Supply, which is under the command of the President and of the top General, Vladimir Padrino López."
+              "text": "\"All ministries and government institutions are subordinated to the National Command of the Great Mission for Safe Sovereign and Safe Supply, which is under the command of the President and of the top General, Vladimir Padrino López.\""
             }
           ]
         },
@@ -318,6 +318,12 @@
               "text": "The appointment of Padrino was also seen to be similar to the Cuban government's tactic of granting the Cuban military the power to manage Cuba's economy."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "All ministries and government institutions are subordinated to the National Command of the Great Mission for Safe Sovereign and Safe Supply, which is under the command of the President and of the top General, Vladimir Padrino López.",
+          "template": "blockquote"
         }
       ],
       "references": [

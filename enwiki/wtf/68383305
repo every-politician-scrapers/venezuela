@@ -17,15 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Ricardo José Menéndez Prieto (b.",
-              "formatting": {
-                "bold": [
-                  "Ricardo José Menéndez Prieto"
-                ]
-              }
-            },
-            {
-              "text": "7 December of 1969 in Caracas, Venezuela) is a Venezuelan geographer, professor and politician.",
+              "text": "Ricardo José Menéndez Prieto (b. 7 December of 1969 in Caracas, Venezuela) is a Venezuelan geographer, professor and politician.",
               "links": [
                 {
                   "type": "internal",
@@ -45,7 +37,12 @@
                   "type": "internal",
                   "page": "politician"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Ricardo José Menéndez Prieto"
+                ]
+              }
             },
             {
               "text": "He currently serves as the vice president of the Council of Ministers of Planning and Minister of the Popular Power for Planning of the Venezuelan government.",
