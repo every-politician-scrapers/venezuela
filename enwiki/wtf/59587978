@@ -374,6 +374,32 @@
           "caption": {
             "text": "Juan Guaidó in 2019"
           },
+          "office": {
+            "text": "President of the Republic of Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Republic of Venezuela"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 January 2019 Disputed with Nicolás Maduro since 23 January 2019",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolás Maduro"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Disputed with Nicolás Maduro"
+              ]
+            }
+          },
+          "status": {
+            "text": "Contested"
+          },
           "office1": {
             "text": "10th President of the National Assembly of Venezuela",
             "links": [
@@ -1984,7 +2010,18 @@
       "depth": 1,
       "paragraphs": [
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Venezuela president recognition map 2019.svg as of January 2020:"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "]]"
+            }
+          ]
         },
         {
           "sentences": [
@@ -2200,15 +2237,6 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Venezuela_president_recognition_map_2019.svg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Venezuela_president_recognition_map_2019.svg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Venezuela_president_recognition_map_2019.svg",
-          "caption": "Nations recognizing presidential power as of January 2020:\n{{legend|#000000|Venezuela}}\n{{legend|#535D6C|Neutral}}\n{{legend|#E0E0E0|No statement}}\n{{legend|blue|Recognize Guaidó}}\n{{legend|#5599FF|Support National Assembly}}\n{{legend|#ff0000|Recognize Maduro|undefined",
-          "links": []
-        }
-      ],
       "templates": [
         {
           "list": [
@@ -2217,33 +2245,45 @@
           "template": "main"
         },
         {
-          "color": "#000000",
-          "label": "Venezuela",
+          "list": [
+            "#000000",
+            "Venezuela"
+          ],
           "template": "legend"
         },
         {
-          "color": "#535D6C",
-          "label": "Neutral",
+          "list": [
+            "#535D6C",
+            "Neutral"
+          ],
           "template": "legend"
         },
         {
-          "color": "#E0E0E0",
-          "label": "No statement",
+          "list": [
+            "#E0E0E0",
+            "No statement"
+          ],
           "template": "legend"
         },
         {
-          "color": "blue",
-          "label": "Recognize Guaidó",
+          "list": [
+            "blue",
+            "Recognize Guaidó"
+          ],
           "template": "legend"
         },
         {
-          "color": "#5599FF",
-          "label": "Support National Assembly",
+          "list": [
+            "#5599FF",
+            "Support National Assembly"
+          ],
           "template": "legend"
         },
         {
-          "color": "#ff0000",
-          "label": "Recognize Maduro",
+          "list": [
+            "#ff0000",
+            "Recognize Maduro"
+          ],
           "template": "legend"
         }
       ],
@@ -3765,18 +3805,21 @@
         {
           "sentences": [
             {
-              "text": "Guaidó announced he would embark on a tour of the country beginning 16 March, to organize committees for Operación Libertad (trans. Operation Freedom or Operation Liberty) with the goal to claim the presidential residence, Miraflores Palace.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Miraflores Palace"
-                }
-              ],
+              "text": "Guaidó announced he would embark on a tour of the country beginning 16 March, to organize committees for Operación Libertad (trans.",
               "formatting": {
                 "italic": [
                   "Operación Libertad"
                 ]
               }
+            },
+            {
+              "text": "Operation Freedom or Operation Liberty) with the goal to claim the presidential residence, Miraflores Palace.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Miraflores Palace"
+                }
+              ]
             },
             {
               "text": "From the first rally in Carabobo state, he said, \"We will be in each state of Venezuela and for each state we have visited the responsibility will be yours, the leaders, the united, [to] organize ourselves in freedom commands.\"",
@@ -4775,7 +4818,7 @@
               "text": "Bloomberg published a 14 April editorial from Guaidó, \"Why China should switch sides in Venezuela,\" in which Guaidó appealed to China and stated that it is in China's interest to support a peaceful transition, rule of law, and economic reconstruction in Venezuela."
             },
             {
-              "text": "\"'The moment has come for Beijing to add its voice to this chorus. China’s influence in our region has grown tremendously over the past few years. It’s in its own interest to help bring about the climate of peace, stability and well-being to which we all aspire. If it does so, it will find a willing, open and more reliable partner in Caracas.'\""
+              "text": "\"The moment has come for Beijing to add its voice to this chorus. China’s influence in our region has grown tremendously over the past few years. It’s in its own interest to help bring about the climate of peace, stability and well-being to which we all aspire. If it does so, it will find a willing, open and more reliable partner in Caracas.\""
             }
           ]
         },
@@ -4930,12 +4973,6 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Amb_Craft_and_Interim_President_Guaid%C3%B3.jpg",
           "caption": "Guaidó with U.S. Ambassador to the United Nations Kelly Craft, February 2020",
           "links": []
-        }
-      ],
-      "templates": [
-        {
-          "text": "\"The moment has come for Beijing to add its voice to this chorus. China’s influence in our region has grown tremendously over the past few years. It’s in its own interest to help bring about the climate of peace, stability and well-being to which we all aspire. If it does so, it will find a willing, open and more reliable partner in Caracas.\"",
-          "template": "blockquote"
         }
       ],
       "references": [

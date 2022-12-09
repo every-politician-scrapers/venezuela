@@ -15,7 +15,15 @@
         {
           "sentences": [
             {
-              "text": "Jorge Elieser Marquez (b. February 20, 1971 in Caracas, Venezuela) is a Venezuelan politician.",
+              "text": "Jorge Elieser Marquez (b.",
+              "formatting": {
+                "bold": [
+                  "Jorge Elieser Marquez"
+                ]
+              }
+            },
+            {
+              "text": "February 20, 1971 in Caracas, Venezuela) is a Venezuelan politician.",
               "links": [
                 {
                   "type": "internal",
@@ -30,12 +38,7 @@
                   "type": "internal",
                   "page": "Venezuelans"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jorge Elieser Marquez"
-                ]
-              }
+              ]
             },
             {
               "text": "He is the minister in charge of Office of the Presidency and Monitoring of Government Management of Venezuela."
