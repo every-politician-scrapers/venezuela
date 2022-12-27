@@ -25,12 +25,22 @@
         {
           "sentences": [
             {
-              "text": "Tareck Zaidan El Aissami Maddah (طارق زيدان العيسمي مداح; born 12 November 1974) is a Venezuelan politician serving as Minister of Industries and National Production since 14 June 2018, and as Minister of Petroleum since 27 April 2020.",
+              "text": "Tareck Zaidan El Aissami Maddah (طارق زيدان العيسمي مداح; born 12 November 1974) is a Venezuelan politician, who served as the vice president of Venezuela from 2017 to 2018.",
+              "links": [
+                {
+                  "text": "vice president of Venezuela",
+                  "type": "internal",
+                  "page": "vice president of Venezuela"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Tareck Zaidan El Aissami Maddah"
                 ]
               }
+            },
+            {
+              "text": "He currently serves as Minister of Industries and National Production since 14 June 2018, and as Minister of Petroleum since 27 April 2020."
             },
             {
               "text": "He previously was Minister of the Interior and Justice from 2008 to 2012, Governor of Aragua from 2012 to 2017 and the vice president of Venezuela from 2017 to 2018.",
