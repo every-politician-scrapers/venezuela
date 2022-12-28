@@ -72,6 +72,12 @@
                   "page": "Nicolás Maduro"
                 }
               ]
+            },
+            {
+              "text": "On 22 December 2022, the Venezuelan opposition held an initial vote to remove Guaidó's interim government from its leadership."
+            },
+            {
+              "text": "The measure based by a wide margin but is subject to another vote."
             }
           ]
         },
@@ -666,6 +672,17 @@
           "access-date": "7 January 2020",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Reuters",
+          "date": "2022-12-22",
+          "title": "Venezuela opposition vote to remove Guaido's interim government",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/americas/venezuela-opposition-vote-remove-guaidos-interim-government-2022-12-22/",
+          "access-date": "2022-12-27",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "https://www.aljazeera.com/news/2019/05/venezuelan-government-opposition-envoys-talks-deal-190530160246998.html",
@@ -1993,7 +2010,45 @@
         {
           "sentences": [
             {
-              "text": "]]"
+              "text": "]]After what he and critics of the Maduro administration described as the \"illegitimate\" inauguration of Maduro on 10 January 2019, Guaidó challenged Maduro's claim to the presidency.",
+              "links": [
+                {
+                  "text": "inauguration of Maduro",
+                  "type": "internal",
+                  "page": "Second inauguration of Nicolás Maduro"
+                }
+              ]
+            },
+            {
+              "text": "The National Assembly declared Guaidó was willing to assume the responsibilities of the presidency, and continued to plan to remove Maduro."
+            },
+            {
+              "text": "Guaidó told The Wall Street Journal that \"[i]t's not about twisting arms, breaking kneecaps, but rather holding out a hand\" and offered \"amnesty to military officers who joined efforts for a transition in power.\"",
+              "formatting": {
+                "italic": [
+                  "The Wall Street Journal"
+                ]
+              }
+            },
+            {
+              "text": "They called for demonstrations on 23 January, the 61st anniversary of the overthrow of dictator Marcos Pérez Jiménez.",
+              "links": [
+                {
+                  "text": "overthrow",
+                  "type": "internal",
+                  "page": "1958 Venezuelan coup d'état"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marcos Pérez Jiménez"
+                }
+              ]
+            },
+            {
+              "text": "Large numbers of demonstrators came out in cities throughout Venezuela and across the world."
+            },
+            {
+              "text": "Guaidó declared he assumed the functions as acting president and took the presidential oath at a rally in Caracas."
             }
           ]
         },
@@ -2209,6 +2264,16 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 December 2022, the Venezuelan opposition held an initial vote to remove Guaidó's interim government from its leadership."
+            },
+            {
+              "text": "The measure based by a wide margin but is subject to another vote."
+            }
+          ]
         }
       ],
       "templates": [
@@ -2306,6 +2371,49 @@
           "type": "news"
         },
         {
+          "url": "http://www.asambleanacional.gob.ve/noticias/_juan-guaido-me-apego-a-los-articulos-333-350-y-233",
+          "title": "Juan Guaidó: Me apego a los artículos 333, 350 y 233 para lograr el cese de la usurpación y convocar elecciones libres con la unión del pueblo, FAN y comunidad internacional",
+          "publisher": "National Assembly (Venezuela)",
+          "access-date": "8 May 2019",
+          "archive-url": "https://web.archive.org/web/20190205141215/http://www.asambleanacional.gob.ve/noticias/_juan-guaido-me-apego-a-los-articulos-333-350-y-233",
+          "archive-date": "5 February 2019",
+          "date": "11 January 2019",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "https://www.elmundo.es/internacional/2019/01/23/5c476bc621efa038768b4777.html",
+          "title": "La Asamblea Nacional llama hoy a tomar las calles contra Nicolás Maduro",
+          "trans-title": "National Assembly calls to take to the streets against Nicolás Maduro today",
+          "date": "23 January 2019",
+          "access-date": "8 May 2019",
+          "language": "es",
+          "publisher": "El Mundo (Spain)",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.el-nacional.com/noticias/politica/anuncio-los-puntos-concentracion-para-este-enero_267324",
+          "work": "El Nacional",
+          "date": "21 January 2019",
+          "access-date": "8 May 2019",
+          "language": "es",
+          "title": "AN anunció los puntos de concentración para este 23 de enero",
+          "trans-title": "NA announces concentration points for this 23 January",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.infobae.com/america/venezuela/2019/01/24/las-50-fotos-de-las-masivas-marchas-contra-la-dictadura-de-nicolas-maduro-en-venezuela-y-latinoamerica",
+          "language": "es",
+          "title": "Las 50 fotos de las masivas marchas contra la dictadura de Nicolás Maduro en Venezuela y Latinoamérica",
+          "work": "Infobae",
+          "date": "24 January 2019",
+          "access-date": "28 January 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "date": "8 February 2019",
           "title": "Travel ban on Venezuela's Guaido breaches legal standards: U.N. expert",
           "work": "Reuters",
@@ -2352,6 +2460,41 @@
           "publisher": "Reuters",
           "date": "25 January 2021",
           "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2019/jan/11/venezuela-maduro-juan-guaido-assume-presidency",
+          "title": "Venezuela: opposition leader declares himself ready to assume presidency",
+          "author": "Phillips, Tom",
+          "date": "11 January 2019",
+          "work": "The Guardian",
+          "access-date": "24 January 2019",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://efectococuyo.com/principales/prensa-de-la-an-rectifica-comunicado-que-proclama-a-juan-guaido-presidente-de-la-republica/",
+          "title": "Prensa de la AN rectifica comunicado que proclama a Juan Guaidó Presidente de la República",
+          "trans-title": "NA press (office) rectifies communication proclaiming Juan Guaidó President of the Republic",
+          "website": "Efecto Cocuyo",
+          "access-date": "12 January 2019",
+          "date": "11 January 2019",
+          "archive-url": "https://web.archive.org/web/20190501005709/http://efectococuyo.com/principales/prensa-de-la-an-rectifica-comunicado-que-proclama-a-juan-guaido-presidente-de-la-republica/",
+          "archive-date": "1 May 2019",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/mundo/noticias-america-latina-46979531",
+          "work": "BBC News Mundo",
+          "language": "es",
+          "title": "Protestas en Venezuela: miles de personas participan en manifestaciones masivas contra el gobierno de Maduro",
+          "date": "23 January 2019",
+          "access-date": "28 January 2019",
+          "trans-title": "Protests in Venezuela: thousands of people participate in mass demonstrations against the Maduro government",
           "template": "citation",
           "type": "news"
         },
