@@ -418,7 +418,13 @@
             }
           },
           "status1": {
-            "text": "Contested"
+            "text": "Incumbent (contested)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Incumbent"
+              }
+            ]
           },
           "predecessor1": {
             "text": "Omar Barboza",
@@ -2272,6 +2278,9 @@
             },
             {
               "text": "The measure based by a wide margin but is subject to another vote."
+            },
+            {
+              "text": "The final vote passed on December 30 with 72 votes in favor and 29 against, with the interim government set to be dissolved on January 5, 2023."
             }
           ]
         }
@@ -2460,6 +2469,19 @@
           "publisher": "Reuters",
           "date": "25 January 2021",
           "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Herrera",
+          "first1": "Isayen",
+          "last2": "Glatsky",
+          "first2": "Genevieve",
+          "title": "Juan Guaidó Is Voted Out as Leader of Venezuela’s Opposition",
+          "url": "https://www.nytimes.com/2022/12/30/world/americas/venezuela-opposition-juan-guaido.html",
+          "access-date": "30 December 2022",
+          "work": "The New York Times",
+          "date": "30 December 2022",
           "template": "citation",
           "type": "news"
         },

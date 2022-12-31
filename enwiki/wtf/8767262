@@ -272,11 +272,20 @@
             ]
           },
           "office": {
-            "text": "12th President of the National Assembly of Venezuela (contested)",
+            "text": "12th President of the National Assembly of Venezuela",
             "links": [
               {
                 "type": "internal",
                 "page": "President of the National Assembly of Venezuela"
+              }
+            ]
+          },
+          "status": {
+            "text": "Incumbent (contested)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Incumbent"
               }
             ]
           },
