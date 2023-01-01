@@ -35,7 +35,7 @@
         {
           "sentences": [
             {
-              "text": "Nicolás Maduro Moros (born 23 November 1962) is a Venezuelan politician and president of Venezuela since 2013, with his presidency under dispute since 2019.",
+              "text": "Nicolás Maduro Moros (born 23 November 1962) is a Venezuelan politician and president of Venezuela since 2013.",
               "links": [
                 {
                   "text": "president of Venezuela",
@@ -46,11 +46,6 @@
                   "text": "2013",
                   "type": "internal",
                   "page": "2013 Venezuelan presidential election"
-                },
-                {
-                  "text": "presidency under dispute",
-                  "type": "internal",
-                  "page": "Venezuelan presidential crisis"
                 }
               ],
               "formatting": {
@@ -198,12 +193,26 @@
               ]
             },
             {
-              "text": "On 20 May 2018, Presidential elections were called; President Maduro was sworn in on 10 January 2019 with widespread condemnation, and the president of the National Assembly, Guaidó, was declared interim president on 23 January 2019 by the legislative body.",
+              "text": "On 20 May 2018, presidential elections were held; President Maduro was sworn in on 10 January 2019 with widespread condemnation, and the president of the National Assembly, Juan Guaidó, was declared interim president on 23 January 2019 by the opposition legislative body—kicking off a presidential crisis that spanned three years and divided the international community.",
               "links": [
                 {
                   "text": "was sworn in",
                   "type": "internal",
                   "page": "Second inauguration of Nicolás Maduro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juan Guaidó"
+                },
+                {
+                  "text": "presidential crisis",
+                  "type": "internal",
+                  "page": "Venezuelan presidential crisis"
+                },
+                {
+                  "text": "divided the international community",
+                  "type": "internal",
+                  "page": "Responses to the Venezuelan presidential crisis"
                 }
               ]
             },
@@ -382,14 +391,7 @@
             ]
           },
           "term_start": {
-            "text": "5 March 2013 Disputed since 10 January 2019",
-            "links": [
-              {
-                "text": "Disputed",
-                "type": "internal",
-                "page": "Venezuelan presidential crisis"
-              }
-            ]
+            "text": "5 March 2013"
           },
           "predecessor": {
             "text": "Hugo Chávez",

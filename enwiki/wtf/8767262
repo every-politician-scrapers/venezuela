@@ -105,6 +105,14 @@
           "template": "expand language"
         },
         {
+          "list": [
+            "Rodríguez",
+            "Gómez"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1965",
           "month": "11",
           "day": "9",
