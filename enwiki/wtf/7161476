@@ -2382,7 +2382,8 @@
                 {
                   "text": "vis-à-vis",
                   "type": "interwiki",
-                  "wiki": "wikt"
+                  "wiki": "wikt",
+                  "page": "vis-à-vis"
                 }
               ]
             }
