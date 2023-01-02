@@ -267,6 +267,15 @@
               }
             ]
           },
+          "alma_mater": {
+            "text": "Central University of Venezuela",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central University of Venezuela"
+              }
+            ]
+          },
           "children": {
             "text": "Lucía Rodríguez Héctor Rodríguez"
           },
@@ -289,7 +298,7 @@
             ]
           },
           "status": {
-            "text": "Incumbent (contested)",
+            "text": "Incumbent",
             "links": [
               {
                 "type": "internal",
@@ -298,18 +307,7 @@
             ]
           },
           "termstart": {
-            "text": "January 5, 2021 Disputed with Juan Guaidó",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Guaidó"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Disputed with Juan Guaidó"
-              ]
-            }
+            "text": "January 5, 2021"
           },
           "predecessor": {
             "text": "Luis Parra",
