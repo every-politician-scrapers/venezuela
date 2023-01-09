@@ -859,6 +859,8 @@
           "url": "https://www.theguardian.com/environment/2022/nov/17/nicolas-maduro-cop27-climate-offender-venezuela",
           "access-date": "2022-12-01",
           "website": "The Guardian",
+          "first": "Luke",
+          "last": "Taylor",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -1111,6 +1113,9 @@
           "url": "http://www.timesofisrael.com/venezuelas-anti-semitic-leader-admits-jewish-ancestry/",
           "title": "Venezuela's 'anti-Semitic' leader admits Jewish ancestry",
           "website": "The Times of Israel",
+          "first": "Michal",
+          "last": "Shmulovich",
+          "date": "13 May 2013",
           "access-date": "24 July 2017",
           "archive-date": "18 July 2018",
           "archive-url": "https://web.archive.org/web/20180718120320/https://www.timesofisrael.com/venezuelas-anti-semitic-leader-admits-jewish-ancestry/",
