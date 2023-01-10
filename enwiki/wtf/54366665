@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Samuel Reinaldo Moncada Acosta (born 13 June 1959) is a Venezuelan historian, politician and diplomat currently serving as Permanent Representative of Venezuela to the United Nations since 2017 and formerly served as Alternate Representative of Venezuela to the Organization of American States from 2017 to 2019.",
+              "text": "Samuel Reinaldo Moncada Acosta (born 13 June 1959) is a Venezuelan politician and diplomat currently serving as Permanent Representative of Venezuela to the United Nations since 2017 and formerly served as Alternate Representative of Venezuela to the Organization of American States from 2017 to 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -35,11 +35,7 @@
                   "Samuel Reinaldo Moncada Acosta"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "He was Venezuela's deputy foreign minister until June 2017, when he succeeded Delcy Rodriguez as Venezuela's Foreign Minister.",
               "links": [
@@ -93,6 +89,9 @@
       "infoboxes": [
         {
           "name": {
+            "text": "Samuel Moncada"
+          },
+          "birth_name": {
             "text": "Samuel Reinaldo Moncada Acosta"
           },
           "office1": {
@@ -347,6 +346,34 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2017 Maduro also appointed Moncada as Venezuela's Permanent Representative to the United Nations."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "access-date": "29 December 2017",
+          "date": "19 December 2017",
+          "periodical": "El Carabobeño",
+          "title": "TSJ en el exilio anuló nombramiento de Samuel Moncada como embajador ante la ONU",
+          "url": "https://www.el-carabobeno.com/tsj-exilio-anulo-nombramiento-samuel-moncada-embajador-ante-la-onu/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-03-23",
+          "title": "How Maduro Became Useless in the UN General Assembly",
+          "url": "https://www.caracaschronicles.com/2022/03/23/how-maduro-became-useless-in-the-un-general-assembly/",
+          "access-date": "2023-01-09",
+          "website": "Caracas Chronicles",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

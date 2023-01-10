@@ -73,6 +73,10 @@
       ],
       "templates": [
         {
+          "description": "Venezuelan military officer and politician",
+          "template": "short description"
+        },
+        {
           "date": "January 2021",
           "template": "use dmy dates"
         },
