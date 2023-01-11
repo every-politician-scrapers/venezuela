@@ -307,8 +307,12 @@
             ]
           },
           "termstart": {
-            "text": "January 5, 2021 Disputed with Dinorah Figuera",
+            "text": "January 5, 2021 Disputed with Juan Guaidó and Dinorah Figuera",
             "links": [
+              {
+                "type": "internal",
+                "page": "Juan Guaidó"
+              },
               {
                 "text": "Dinorah Figuera",
                 "type": "internal",
@@ -317,7 +321,7 @@
             ],
             "formatting": {
               "bold": [
-                "Disputed with Dinorah Figuera"
+                "Disputed with Juan Guaidó and Dinorah Figuera"
               ]
             }
           },
